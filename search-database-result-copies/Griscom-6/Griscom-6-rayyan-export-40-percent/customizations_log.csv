@@ -1,0 +1,653 @@
+created_at,user_id,user_email,article_id,key,value
+2025-05-06T08:03:48.226Z,826133,scl785@alumni.ku.dk,219980872,included,1
+2025-05-06T08:03:48.229Z,826133,scl785@alumni.ku.dk,219980872,"""state of ecosystem""",1
+2025-05-06T08:04:13.040Z,826133,scl785@alumni.ku.dk,219980873,"""__EXR__threat to resilience""",1
+2025-05-06T08:04:13.061Z,826133,scl785@alumni.ku.dk,219980873,included,-1
+2025-05-06T08:06:31.144Z,826133,scl785@alumni.ku.dk,219980874,"""general land use management""",1
+2025-05-06T08:06:31.344Z,826133,scl785@alumni.ku.dk,219980874,included,1
+2025-05-06T08:07:19.377Z,826133,scl785@alumni.ku.dk,219980875,"""general land use management""",1
+2025-05-06T08:07:19.949Z,826133,scl785@alumni.ku.dk,219980875,included,1
+2025-05-06T08:07:34.687Z,826133,scl785@alumni.ku.dk,219980876,"""agroforestry""",1
+2025-05-06T08:07:34.928Z,826133,scl785@alumni.ku.dk,219980876,included,1
+2025-05-06T08:08:41.556Z,826133,scl785@alumni.ku.dk,219980877,included,1
+2025-05-06T08:08:41.564Z,826133,scl785@alumni.ku.dk,219980877,"""reforestation""",1
+2025-05-06T08:09:15.720Z,826133,scl785@alumni.ku.dk,219980878,"""state of ecosystem""",1
+2025-05-06T08:09:15.964Z,826133,scl785@alumni.ku.dk,219980878,included,1
+2025-05-06T08:09:57.408Z,826133,scl785@alumni.ku.dk,219980879,"""ecosystem services""",1
+2025-05-06T08:09:58.029Z,826133,scl785@alumni.ku.dk,219980879,included,1
+2025-05-06T08:10:17.039Z,826133,scl785@alumni.ku.dk,219980880,"""ecosystem services""",1
+2025-05-06T08:10:17.337Z,826133,scl785@alumni.ku.dk,219980880,included,1
+2025-05-06T08:11:29.485Z,826133,scl785@alumni.ku.dk,219980881,"""__EXR__wrong population""",1
+2025-05-06T08:11:29.499Z,826133,scl785@alumni.ku.dk,219980881,included,-1
+2025-05-06T08:12:16.530Z,826133,scl785@alumni.ku.dk,219980882,"""agroforestry""",1
+2025-05-06T08:12:16.749Z,826133,scl785@alumni.ku.dk,219980882,included,1
+2025-05-06T08:12:43.853Z,826133,scl785@alumni.ku.dk,219980883,"""ecosystem services""",1
+2025-05-06T08:12:44.564Z,826133,scl785@alumni.ku.dk,219980883,included,1
+2025-05-06T08:27:29.566Z,826133,scl785@alumni.ku.dk,219980884,included,1
+2025-05-06T08:27:29.602Z,826133,scl785@alumni.ku.dk,219980884,"""state of ecosystem""",1
+2025-05-06T08:29:03.755Z,826133,scl785@alumni.ku.dk,219980885,included,1
+2025-05-06T08:29:03.769Z,826133,scl785@alumni.ku.dk,219980885,"""ecosystem services""",1
+2025-05-06T08:29:15.573Z,826133,scl785@alumni.ku.dk,219980886,"""agroforestry""",1
+2025-05-06T08:29:15.794Z,826133,scl785@alumni.ku.dk,219980886,included,1
+2025-05-06T08:30:51.706Z,826133,scl785@alumni.ku.dk,219980887,"""__EXR__driver analysis""",1
+2025-05-06T08:30:51.722Z,826133,scl785@alumni.ku.dk,219980887,included,-1
+2025-05-06T08:31:05.022Z,826133,scl785@alumni.ku.dk,219980888,"""state of ecosystem""",1
+2025-05-06T08:31:05.484Z,826133,scl785@alumni.ku.dk,219980888,included,1
+2025-05-06T08:31:23.551Z,826133,scl785@alumni.ku.dk,219980889,"""avoided forest conversion""",1
+2025-05-06T08:31:24.166Z,826133,scl785@alumni.ku.dk,219980889,included,1
+2025-05-06T08:31:31.143Z,826133,scl785@alumni.ku.dk,219980890,"""state of ecosystem""",1
+2025-05-06T08:31:31.402Z,826133,scl785@alumni.ku.dk,219980890,included,1
+2025-05-06T08:31:46.555Z,826133,scl785@alumni.ku.dk,219980891,"""state of ecosystem""",1
+2025-05-06T08:31:46.848Z,826133,scl785@alumni.ku.dk,219980891,included,1
+2025-05-06T08:32:30.667Z,826133,scl785@alumni.ku.dk,219980907,"""natural succession""",1
+2025-05-06T08:32:31.125Z,826133,scl785@alumni.ku.dk,219980907,included,1
+2025-05-06T08:32:33.244Z,826133,scl785@alumni.ku.dk,219980907,included,0
+2025-05-06T08:32:52.048Z,826133,scl785@alumni.ku.dk,219980908,"""agroforestry""",1
+2025-05-06T08:32:55.250Z,826133,scl785@alumni.ku.dk,219980908,included,1
+2025-05-06T08:33:07.077Z,826133,scl785@alumni.ku.dk,219980909,"""state of ecosystem""",1
+2025-05-06T08:33:07.797Z,826133,scl785@alumni.ku.dk,219980909,included,1
+2025-05-06T08:36:03.497Z,826133,scl785@alumni.ku.dk,219980910,"""avoided forest conversion""",1
+2025-05-06T08:36:03.610Z,826133,scl785@alumni.ku.dk,219980910,included,1
+2025-05-06T08:41:08.028Z,826133,scl785@alumni.ku.dk,219980911,"""ecosystem services""",1
+2025-05-06T08:41:08.040Z,826133,scl785@alumni.ku.dk,219980911,included,1
+2025-05-06T08:41:26.583Z,826133,scl785@alumni.ku.dk,219980912,"""__EXR__wrong population""",1
+2025-05-06T08:41:26.596Z,826133,scl785@alumni.ku.dk,219980912,included,-1
+2025-05-06T08:42:02.476Z,826133,scl785@alumni.ku.dk,219980913,"""__EXR__wrong population""",1
+2025-05-06T08:42:02.503Z,826133,scl785@alumni.ku.dk,219980913,included,-1
+2025-05-06T08:43:32.314Z,826133,scl785@alumni.ku.dk,219980914,"""state of ecosystem""",1
+2025-05-06T08:43:32.314Z,826133,scl785@alumni.ku.dk,219980914,included,1
+2025-05-06T08:43:53.802Z,826133,scl785@alumni.ku.dk,219980915,"""ecosystem services""",1
+2025-05-06T08:43:54.060Z,826133,scl785@alumni.ku.dk,219980915,included,1
+2025-05-06T08:47:10.184Z,826133,scl785@alumni.ku.dk,219980916,"""__EXR__wrong population""",1
+2025-05-06T08:47:10.197Z,826133,scl785@alumni.ku.dk,219980916,included,-1
+2025-05-06T09:00:09.150Z,826133,scl785@alumni.ku.dk,219980917,"""ecosystem services""",1
+2025-05-06T09:00:09.179Z,826133,scl785@alumni.ku.dk,219980917,included,1
+2025-05-06T09:04:49.782Z,826133,scl785@alumni.ku.dk,219980918,"""__EXR__driver analysis""",1
+2025-05-06T09:04:49.800Z,826133,scl785@alumni.ku.dk,219980918,included,-1
+2025-05-06T09:06:47.088Z,826133,scl785@alumni.ku.dk,219980892,"""__EXR__driver analysis""",1
+2025-05-06T09:06:47.101Z,826133,scl785@alumni.ku.dk,219980892,included,-1
+2025-05-06T09:08:06.519Z,826133,scl785@alumni.ku.dk,219980893,"""state of ecosystem""",1
+2025-05-06T09:08:06.602Z,826133,scl785@alumni.ku.dk,219980893,included,1
+2025-05-06T09:09:13.547Z,826133,scl785@alumni.ku.dk,219980894,included,1
+2025-05-06T09:09:13.561Z,826133,scl785@alumni.ku.dk,219980894,"""reforestation""",1
+2025-05-06T09:09:26.621Z,826133,scl785@alumni.ku.dk,219980895,"""__EXR__disturbance detection""",1
+2025-05-06T09:09:26.632Z,826133,scl785@alumni.ku.dk,219980895,included,-1
+2025-05-06T09:10:06.362Z,826133,scl785@alumni.ku.dk,219980896,"""__EXR__wrong population""",1
+2025-05-06T09:10:06.376Z,826133,scl785@alumni.ku.dk,219980896,included,-1
+2025-05-06T09:10:36.589Z,826133,scl785@alumni.ku.dk,219980897,"""__EXR__wrong outcome""",1
+2025-05-06T09:10:36.601Z,826133,scl785@alumni.ku.dk,219980897,included,-1
+2025-05-06T09:10:41.910Z,826133,scl785@alumni.ku.dk,219980898,"""__EXR__wrong population""",1
+2025-05-06T09:10:41.924Z,826133,scl785@alumni.ku.dk,219980898,included,-1
+2025-05-06T09:14:18.419Z,826133,scl785@alumni.ku.dk,219980906,"""__EXR__driver""",1
+2025-05-06T09:14:18.431Z,826133,scl785@alumni.ku.dk,219980906,included,-1
+2025-05-06T09:14:22.278Z,826133,scl785@alumni.ku.dk,219980906,"""__EXR__driver analysis""",1
+2025-05-06T09:14:22.289Z,826133,scl785@alumni.ku.dk,219980906,included,-1
+2025-05-06T09:14:22.301Z,826133,scl785@alumni.ku.dk,219980906,"""__EXR__driver""",deleted
+2025-05-06T09:14:45.886Z,826133,scl785@alumni.ku.dk,219980919,included,1
+2025-05-06T09:14:46.726Z,826133,scl785@alumni.ku.dk,219980919,"""ecosystem services""",1
+2025-05-06T09:14:52.820Z,826133,scl785@alumni.ku.dk,219980920,"""state of ecosystem""",1
+2025-05-06T09:14:53.177Z,826133,scl785@alumni.ku.dk,219980920,included,1
+2025-05-06T09:16:17.876Z,826133,scl785@alumni.ku.dk,219980921,"""__EXR__driver analysis""",1
+2025-05-06T09:16:17.886Z,826133,scl785@alumni.ku.dk,219980921,included,-1
+2025-05-06T09:16:29.315Z,826133,scl785@alumni.ku.dk,219980922,"""__EXR__wrong outcome""",1
+2025-05-06T09:16:29.328Z,826133,scl785@alumni.ku.dk,219980922,included,-1
+2025-05-06T09:17:35.691Z,826133,scl785@alumni.ku.dk,219980923,"""__EXR__wrong population""",1
+2025-05-06T09:17:35.703Z,826133,scl785@alumni.ku.dk,219980923,included,-1
+2025-05-06T09:18:29.623Z,826133,scl785@alumni.ku.dk,219980923,"""__EXR__wrong outcome""",1
+2025-05-06T09:18:29.634Z,826133,scl785@alumni.ku.dk,219980923,included,-1
+2025-05-06T09:18:34.697Z,826133,scl785@alumni.ku.dk,219980923,"""__EXR__wrong population""",deleted
+2025-05-06T09:19:04.617Z,826133,scl785@alumni.ku.dk,219980924,"""__EXR__wrong population""",1
+2025-05-06T09:19:04.633Z,826133,scl785@alumni.ku.dk,219980924,included,-1
+2025-05-06T09:19:40.537Z,826133,scl785@alumni.ku.dk,219980925,"""state of ecosystem""",1
+2025-05-06T09:19:41.100Z,826133,scl785@alumni.ku.dk,219980925,included,1
+2025-05-06T09:20:03.637Z,826133,scl785@alumni.ku.dk,219980926,"""general land use management""",1
+2025-05-06T09:20:24.449Z,826133,scl785@alumni.ku.dk,219980926,"""natural forest management""",1
+2025-05-06T09:20:31.277Z,826133,scl785@alumni.ku.dk,219980926,"""general land use management""",deleted
+2025-05-06T09:20:32.869Z,826133,scl785@alumni.ku.dk,219980926,included,1
+2025-05-06T09:22:08.590Z,826133,scl785@alumni.ku.dk,219980927,"""__EXR__disturbance detection""",1
+2025-05-06T09:22:08.603Z,826133,scl785@alumni.ku.dk,219980927,included,-1
+2025-05-06T09:22:41.857Z,826133,scl785@alumni.ku.dk,219980928,"""ecosystem services""",1
+2025-05-06T09:22:42.571Z,826133,scl785@alumni.ku.dk,219980928,included,1
+2025-05-06T09:25:24.768Z,826133,scl785@alumni.ku.dk,219980929,"""__EXR__non-ncs""",1
+2025-05-06T09:25:24.781Z,826133,scl785@alumni.ku.dk,219980929,included,-1
+2025-05-06T09:26:05.803Z,826133,scl785@alumni.ku.dk,219980930,"""state of ecosystem""",1
+2025-05-06T09:26:06.385Z,826133,scl785@alumni.ku.dk,219980930,included,1
+2025-05-06T09:31:08.179Z,826133,scl785@alumni.ku.dk,219980938,"""state of ecosystem""",1
+2025-05-06T09:31:08.370Z,826133,scl785@alumni.ku.dk,219980938,included,1
+2025-05-06T09:31:40.424Z,826133,scl785@alumni.ku.dk,219980939,"""__EXR__disturbance detection""",1
+2025-05-06T09:31:40.433Z,826133,scl785@alumni.ku.dk,219980939,included,-1
+2025-05-06T09:32:16.025Z,826133,scl785@alumni.ku.dk,219980940,"""__EXR__threat to resilience""",1
+2025-05-06T09:32:16.037Z,826133,scl785@alumni.ku.dk,219980940,included,-1
+2025-05-06T09:32:25.953Z,826133,scl785@alumni.ku.dk,219980941,"""avoided forest conversion""",1
+2025-05-06T09:32:26.534Z,826133,scl785@alumni.ku.dk,219980941,included,1
+2025-05-06T09:33:38.466Z,826133,scl785@alumni.ku.dk,219980942,"""__EXR__threat to resilience""",1
+2025-05-06T09:33:38.479Z,826133,scl785@alumni.ku.dk,219980942,included,-1
+2025-05-06T09:34:33.760Z,826133,scl785@alumni.ku.dk,219980943,"""__EXR__threat to resilience""",1
+2025-05-06T09:34:33.776Z,826133,scl785@alumni.ku.dk,219980943,included,-1
+2025-05-06T09:35:12.574Z,826133,scl785@alumni.ku.dk,219980944,"""__EXR__driver analysis""",1
+2025-05-06T09:35:12.587Z,826133,scl785@alumni.ku.dk,219980944,included,-1
+2025-05-06T09:35:23.572Z,826133,scl785@alumni.ku.dk,219980945,"""ecosystem services""",1
+2025-05-06T09:35:24.236Z,826133,scl785@alumni.ku.dk,219980945,included,1
+2025-05-06T09:35:49.230Z,826133,scl785@alumni.ku.dk,219980946,"""__EXR__driver analysis""",1
+2025-05-06T09:35:49.245Z,826133,scl785@alumni.ku.dk,219980946,included,-1
+2025-05-06T09:38:12.620Z,826133,scl785@alumni.ku.dk,219980947,"""__EXR__driver analysis""",1
+2025-05-06T09:38:12.636Z,826133,scl785@alumni.ku.dk,219980947,included,-1
+2025-05-06T09:39:04.298Z,826133,scl785@alumni.ku.dk,219980948,"""__EXR__driver analysis""",1
+2025-05-06T09:39:04.309Z,826133,scl785@alumni.ku.dk,219980948,included,-1
+2025-05-06T09:39:13.982Z,826133,scl785@alumni.ku.dk,219980949,"""state of ecosystem""",1
+2025-05-06T09:39:14.941Z,826133,scl785@alumni.ku.dk,219980949,included,1
+2025-05-06T09:39:25.497Z,826133,scl785@alumni.ku.dk,219980950,"""ecosystem services""",1
+2025-05-06T09:39:26.493Z,826133,scl785@alumni.ku.dk,219980950,included,1
+2025-05-06T09:40:22.705Z,826133,scl785@alumni.ku.dk,219980951,"""general land use management""",1
+2025-05-06T09:40:23.108Z,826133,scl785@alumni.ku.dk,219980951,included,1
+2025-05-06T09:40:39.560Z,826133,scl785@alumni.ku.dk,219980952,"""__EXR__wrong outcome""",1
+2025-05-06T09:40:39.570Z,826133,scl785@alumni.ku.dk,219980952,included,-1
+2025-05-06T09:41:09.951Z,826133,scl785@alumni.ku.dk,219980953,"""__EXR__driver analysis""",1
+2025-05-06T09:41:09.967Z,826133,scl785@alumni.ku.dk,219980953,included,-1
+2025-05-06T09:42:14.669Z,826133,scl785@alumni.ku.dk,219980954,"""__EXR__disturbance detection""",1
+2025-05-06T09:42:14.681Z,826133,scl785@alumni.ku.dk,219980954,included,-1
+2025-05-06T09:43:12.204Z,826133,scl785@alumni.ku.dk,219980955,"""agroforestry""",1
+2025-05-06T09:43:12.643Z,826133,scl785@alumni.ku.dk,219980955,included,1
+2025-05-06T09:43:46.030Z,826133,scl785@alumni.ku.dk,219980956,"""ecosystem services""",1
+2025-05-06T09:43:46.302Z,826133,scl785@alumni.ku.dk,219980956,included,1
+2025-05-06T09:43:53.528Z,826133,scl785@alumni.ku.dk,219980957,"""state of ecosystem""",1
+2025-05-06T09:43:53.728Z,826133,scl785@alumni.ku.dk,219980957,included,1
+2025-05-06T09:46:46.820Z,826133,scl785@alumni.ku.dk,219980899,"""__EXR__disturbance detection""",1
+2025-05-06T09:46:46.832Z,826133,scl785@alumni.ku.dk,219980899,included,-1
+2025-05-06T09:47:00.342Z,826133,scl785@alumni.ku.dk,219980900,"""__EXR__wrong population""",1
+2025-05-06T09:47:00.355Z,826133,scl785@alumni.ku.dk,219980900,included,-1
+2025-05-06T09:47:09.391Z,826133,scl785@alumni.ku.dk,219980901,"""reforestation""",1
+2025-05-06T09:47:10.237Z,826133,scl785@alumni.ku.dk,219980901,included,1
+2025-05-06T09:48:03.346Z,826133,scl785@alumni.ku.dk,219980902,included,1
+2025-05-06T09:48:14.479Z,826133,scl785@alumni.ku.dk,219980902,"""reforestation""",1
+2025-05-06T09:49:01.484Z,826133,scl785@alumni.ku.dk,219980903,"""livestock management""",1
+2025-05-06T09:49:12.820Z,826133,scl785@alumni.ku.dk,219980903,included,1
+2025-05-06T09:50:09.893Z,826133,scl785@alumni.ku.dk,219980904,"""agroforestry""",1
+2025-05-06T09:50:10.143Z,826133,scl785@alumni.ku.dk,219980904,included,1
+2025-05-06T09:50:44.711Z,826133,scl785@alumni.ku.dk,219980905,"""agroforestry""",1
+2025-05-06T09:50:45.177Z,826133,scl785@alumni.ku.dk,219980905,included,1
+2025-05-06T09:50:58.165Z,826133,scl785@alumni.ku.dk,219980931,"""ecosystem services""",1
+2025-05-06T09:50:58.620Z,826133,scl785@alumni.ku.dk,219980931,included,1
+2025-05-06T09:51:24.102Z,826133,scl785@alumni.ku.dk,219980932,"""__EXR__driver analysis""",1
+2025-05-06T09:51:24.113Z,826133,scl785@alumni.ku.dk,219980932,included,-1
+2025-05-06T09:51:50.840Z,826133,scl785@alumni.ku.dk,219980933,"""__EXR__wrong outcome""",1
+2025-05-06T09:51:50.853Z,826133,scl785@alumni.ku.dk,219980933,included,-1
+2025-05-06T11:28:17.222Z,826133,scl785@alumni.ku.dk,219980934,"""state of ecosystem""",1
+2025-05-06T11:28:17.242Z,826133,scl785@alumni.ku.dk,219980934,included,1
+2025-05-06T11:28:24.928Z,826133,scl785@alumni.ku.dk,219980935,"""ecosystem services""",1
+2025-05-06T11:28:25.189Z,826133,scl785@alumni.ku.dk,219980935,included,1
+2025-05-06T11:30:30.430Z,826133,scl785@alumni.ku.dk,219980936,included,1
+2025-05-06T11:30:30.437Z,826133,scl785@alumni.ku.dk,219980936,"""general land use management""",1
+2025-05-06T11:31:04.675Z,826133,scl785@alumni.ku.dk,219980937,"""ecosystem services""",1
+2025-05-06T11:31:05.318Z,826133,scl785@alumni.ku.dk,219980937,included,1
+2025-05-06T11:34:30.530Z,826133,scl785@alumni.ku.dk,219980958,"""__EXR__driver analysis""",1
+2025-05-06T11:34:30.551Z,826133,scl785@alumni.ku.dk,219980958,included,-1
+2025-05-06T11:35:40.559Z,826133,scl785@alumni.ku.dk,219980959,"""__EXR__wrong outcome""",1
+2025-05-06T11:35:40.574Z,826133,scl785@alumni.ku.dk,219980959,included,-1
+2025-05-06T11:35:59.520Z,826133,scl785@alumni.ku.dk,219980960,"""ecosystem services""",1
+2025-05-06T11:35:59.883Z,826133,scl785@alumni.ku.dk,219980960,included,1
+2025-05-06T11:37:09.088Z,826133,scl785@alumni.ku.dk,219980961,"""natural forest management""",1
+2025-05-06T11:37:12.311Z,826133,scl785@alumni.ku.dk,219980961,included,1
+2025-05-06T11:37:54.295Z,826133,scl785@alumni.ku.dk,219980962,"""agro""",1
+2025-05-06T11:37:59.630Z,826133,scl785@alumni.ku.dk,219980962,"""agroforestry""",1
+2025-05-06T11:37:59.641Z,826133,scl785@alumni.ku.dk,219980962,"""agro""",deleted
+2025-05-06T11:37:59.950Z,826133,scl785@alumni.ku.dk,219980962,included,1
+2025-05-06T11:39:28.591Z,826133,scl785@alumni.ku.dk,219980963,included,1
+2025-05-06T11:39:28.615Z,826133,scl785@alumni.ku.dk,219980963,"""natural forest management""",1
+2025-05-06T11:39:34.524Z,826133,scl785@alumni.ku.dk,219980964,"""natural forest management""",1
+2025-05-06T11:39:34.636Z,826133,scl785@alumni.ku.dk,219980964,included,1
+2025-05-06T11:39:50.527Z,826133,scl785@alumni.ku.dk,219980965,"""__EXR__disturbance detection""",1
+2025-05-06T11:39:50.538Z,826133,scl785@alumni.ku.dk,219980965,included,-1
+2025-05-06T11:41:56.241Z,826133,scl785@alumni.ku.dk,219980966,"""state of ecosystem""",1
+2025-05-06T11:41:56.929Z,826133,scl785@alumni.ku.dk,219980966,included,1
+2025-05-06T11:42:09.073Z,826133,scl785@alumni.ku.dk,219980967,"""__EXR__wrong outcome""",1
+2025-05-06T11:42:09.085Z,826133,scl785@alumni.ku.dk,219980967,included,-1
+2025-05-06T11:42:56.810Z,826133,scl785@alumni.ku.dk,219980968,"""ecosystem services""",1
+2025-05-06T11:42:57.070Z,826133,scl785@alumni.ku.dk,219980968,included,1
+2025-05-06T11:43:41.250Z,826133,scl785@alumni.ku.dk,219980969,"""nutrient management""",1
+2025-05-06T11:43:41.597Z,826133,scl785@alumni.ku.dk,219980969,included,1
+2025-05-06T11:44:11.780Z,826133,scl785@alumni.ku.dk,219980986,"""natural forest management""",1
+2025-05-06T11:44:12.539Z,826133,scl785@alumni.ku.dk,219980986,included,1
+2025-05-06T11:45:40.677Z,826133,scl785@alumni.ku.dk,219980987,"""__EXR__wrong population""",1
+2025-05-06T11:45:40.689Z,826133,scl785@alumni.ku.dk,219980987,included,-1
+2025-05-06T11:46:32.932Z,826133,scl785@alumni.ku.dk,219980970,"""reforestation""",1
+2025-05-06T11:46:33.593Z,826133,scl785@alumni.ku.dk,219980970,included,1
+2025-05-06T11:47:37.302Z,826133,scl785@alumni.ku.dk,219980971,"""__EXR__wrong study design""",1
+2025-05-06T11:47:37.314Z,826133,scl785@alumni.ku.dk,219980971,included,-1
+2025-05-06T11:47:44.554Z,826133,scl785@alumni.ku.dk,219980972,"""ecosystem services""",1
+2025-05-06T11:47:45.003Z,826133,scl785@alumni.ku.dk,219980972,included,1
+2025-05-06T11:48:24.747Z,826133,scl785@alumni.ku.dk,219980973,"""ecosystem services""",1
+2025-05-06T11:48:25.039Z,826133,scl785@alumni.ku.dk,219980973,included,1
+2025-05-06T11:48:49.479Z,826133,scl785@alumni.ku.dk,219980974,"""__EXR__driver analysis""",1
+2025-05-06T11:48:49.489Z,826133,scl785@alumni.ku.dk,219980974,included,-1
+2025-05-06T11:49:37.172Z,826133,scl785@alumni.ku.dk,219980975,"""state of ecosystem""",1
+2025-05-06T11:49:37.634Z,826133,scl785@alumni.ku.dk,219980975,included,1
+2025-05-06T11:50:20.880Z,826133,scl785@alumni.ku.dk,219980976,"""__EXR__disturbance detection""",1
+2025-05-06T11:50:20.893Z,826133,scl785@alumni.ku.dk,219980976,included,-1
+2025-05-06T11:51:00.059Z,826133,scl785@alumni.ku.dk,219982793,"""general land use management""",1
+2025-05-06T11:51:01.475Z,826133,scl785@alumni.ku.dk,219982793,included,1
+2025-05-06T11:51:25.402Z,826133,scl785@alumni.ku.dk,219982457,"""avoided forest conversion""",1
+2025-05-06T11:51:25.704Z,826133,scl785@alumni.ku.dk,219982457,included,1
+2025-05-06T11:52:01.237Z,826133,scl785@alumni.ku.dk,219980995,included,1
+2025-05-06T11:52:01.876Z,826133,scl785@alumni.ku.dk,219980995,"""ecosystem services""",1
+2025-05-06T11:53:04.787Z,826133,scl785@alumni.ku.dk,219981016,"""__EXR__wrong outcome""",1
+2025-05-06T11:53:04.803Z,826133,scl785@alumni.ku.dk,219981016,included,-1
+2025-05-06T11:53:31.132Z,826133,scl785@alumni.ku.dk,219981117,"""__EXR__driver analysis""",1
+2025-05-06T11:53:31.144Z,826133,scl785@alumni.ku.dk,219981117,included,-1
+2025-05-06T11:55:38.077Z,826133,scl785@alumni.ku.dk,219981035,"""__EXR__driver analysis""",1
+2025-05-06T11:55:38.090Z,826133,scl785@alumni.ku.dk,219981035,included,-1
+2025-05-06T11:56:51.238Z,826133,scl785@alumni.ku.dk,219983229,"""__EXR__wrong population""",1
+2025-05-06T11:56:51.249Z,826133,scl785@alumni.ku.dk,219983229,included,-1
+2025-05-06T11:57:00.496Z,826133,scl785@alumni.ku.dk,219983173,"""__EXR__wrong out""",1
+2025-05-06T11:57:00.511Z,826133,scl785@alumni.ku.dk,219983173,included,-1
+2025-05-06T11:57:05.790Z,826133,scl785@alumni.ku.dk,219983173,"""__EXR__wrong outcome""",1
+2025-05-06T11:57:05.801Z,826133,scl785@alumni.ku.dk,219983173,included,-1
+2025-05-06T11:57:05.817Z,826133,scl785@alumni.ku.dk,219983173,"""__EXR__wrong out""",deleted
+2025-05-06T11:57:21.461Z,826133,scl785@alumni.ku.dk,219981062,"""__EXR__driver analysis""",1
+2025-05-06T11:57:21.472Z,826133,scl785@alumni.ku.dk,219981062,included,-1
+2025-05-06T11:58:03.201Z,826133,scl785@alumni.ku.dk,219983092,"""__EXR__driver analysis""",1
+2025-05-06T11:58:03.212Z,826133,scl785@alumni.ku.dk,219983092,included,-1
+2025-05-06T11:58:24.142Z,826133,scl785@alumni.ku.dk,219983096,"""__EXR__wrong population""",1
+2025-05-06T11:58:24.151Z,826133,scl785@alumni.ku.dk,219983096,included,-1
+2025-05-06T11:59:21.295Z,826133,scl785@alumni.ku.dk,219981083,"""ecosystem services""",1
+2025-05-06T11:59:21.961Z,826133,scl785@alumni.ku.dk,219981083,included,1
+2025-05-06T11:59:46.782Z,826133,scl785@alumni.ku.dk,219982808,"""fire management""",1
+2025-05-06T11:59:48.019Z,826133,scl785@alumni.ku.dk,219982808,included,1
+2025-05-06T12:01:23.199Z,826133,scl785@alumni.ku.dk,219983136,"""__EXR__wrong outcome""",1
+2025-05-06T12:01:23.213Z,826133,scl785@alumni.ku.dk,219983136,included,-1
+2025-05-06T12:02:13.897Z,826133,scl785@alumni.ku.dk,219980977,"""__EXR__driver analysis""",1
+2025-05-06T12:02:13.909Z,826133,scl785@alumni.ku.dk,219980977,included,-1
+2025-05-06T12:02:19.957Z,826133,scl785@alumni.ku.dk,219980978,"""__EXR__driver analysis""",1
+2025-05-06T12:02:19.966Z,826133,scl785@alumni.ku.dk,219980978,included,-1
+2025-05-06T12:07:56.261Z,826133,scl785@alumni.ku.dk,219980979,"""__EXR__threat to resilience""",1
+2025-05-06T12:07:56.272Z,826133,scl785@alumni.ku.dk,219980979,included,-1
+2025-05-06T12:08:04.726Z,826133,scl785@alumni.ku.dk,219980980,"""state of ecosystem""",1
+2025-05-06T12:08:05.894Z,826133,scl785@alumni.ku.dk,219980980,included,1
+2025-05-06T12:09:13.510Z,826133,scl785@alumni.ku.dk,219980981,"""reforestation""",1
+2025-05-06T12:09:13.530Z,826133,scl785@alumni.ku.dk,219980981,included,1
+2025-05-06T12:10:30.484Z,826133,scl785@alumni.ku.dk,219980982,"""__EXR__driver analysis""",1
+2025-05-06T12:10:30.496Z,826133,scl785@alumni.ku.dk,219980982,included,-1
+2025-05-06T12:11:36.902Z,826133,scl785@alumni.ku.dk,219980983,included,1
+2025-05-06T12:11:36.921Z,826133,scl785@alumni.ku.dk,219980983,"""state of ecosystem""",1
+2025-05-06T12:11:51.127Z,826133,scl785@alumni.ku.dk,219980984,"""agroforestry""",1
+2025-05-06T12:11:51.670Z,826133,scl785@alumni.ku.dk,219980984,included,1
+2025-05-06T12:13:08.155Z,826133,scl785@alumni.ku.dk,219980985,included,1
+2025-05-06T12:13:08.156Z,826133,scl785@alumni.ku.dk,219980985,"""reforestation""",1
+2025-05-06T12:15:09.015Z,826133,scl785@alumni.ku.dk,219980988,"""ecosystem services""",1
+2025-05-06T12:15:09.055Z,826133,scl785@alumni.ku.dk,219980988,included,1
+2025-05-06T12:16:38.349Z,826133,scl785@alumni.ku.dk,219980989,included,1
+2025-05-06T12:16:38.362Z,826133,scl785@alumni.ku.dk,219980989,"""ecosystem services""",1
+2025-05-06T12:18:25.052Z,826133,scl785@alumni.ku.dk,219980990,"""__EXR__wrong population""",1
+2025-05-06T12:18:25.069Z,826133,scl785@alumni.ku.dk,219980990,included,-1
+2025-05-06T12:19:27.944Z,826133,scl785@alumni.ku.dk,219980991,"""state of ecosystem""",1
+2025-05-06T12:19:28.257Z,826133,scl785@alumni.ku.dk,219980991,included,1
+2025-05-06T12:22:04.887Z,826133,scl785@alumni.ku.dk,219980992,"""general land use management""",1
+2025-05-06T12:22:04.958Z,826133,scl785@alumni.ku.dk,219980992,included,1
+2025-05-06T12:24:02.820Z,826133,scl785@alumni.ku.dk,219980993,included,1
+2025-05-06T12:24:02.832Z,826133,scl785@alumni.ku.dk,219980993,"""general land use management""",1
+2025-05-06T12:24:09.004Z,826133,scl785@alumni.ku.dk,219980994,"""state of ecosystem""",1
+2025-05-06T12:24:09.307Z,826133,scl785@alumni.ku.dk,219980994,included,1
+2025-05-06T12:24:24.084Z,826133,scl785@alumni.ku.dk,219980996,"""state of ecosystem""",1
+2025-05-06T12:24:24.329Z,826133,scl785@alumni.ku.dk,219980996,included,1
+2025-05-06T12:25:11.438Z,826133,scl785@alumni.ku.dk,219980997,"""ecosystem services""",1
+2025-05-06T12:25:11.771Z,826133,scl785@alumni.ku.dk,219980997,included,1
+2025-05-06T12:26:21.017Z,826133,scl785@alumni.ku.dk,219980998,included,1
+2025-05-06T12:26:21.023Z,826133,scl785@alumni.ku.dk,219980998,"""reforestation""",1
+2025-05-06T12:26:30.985Z,826133,scl785@alumni.ku.dk,219980999,"""state of ecosystem""",1
+2025-05-06T12:26:31.203Z,826133,scl785@alumni.ku.dk,219980999,included,1
+2025-05-06T12:27:49.235Z,826133,scl785@alumni.ku.dk,219981000,"""__EXR__disturbance detection""",1
+2025-05-06T12:27:49.245Z,826133,scl785@alumni.ku.dk,219981000,included,-1
+2025-05-06T12:27:57.595Z,826133,scl785@alumni.ku.dk,219981001,"""__EXR__disturbance detection""",1
+2025-05-06T12:27:57.611Z,826133,scl785@alumni.ku.dk,219981001,included,-1
+2025-05-06T12:28:07.026Z,826133,scl785@alumni.ku.dk,219981002,"""ecosystem services""",1
+2025-05-06T12:28:07.180Z,826133,scl785@alumni.ku.dk,219981002,included,1
+2025-05-06T12:30:10.914Z,826133,scl785@alumni.ku.dk,219981003,"""agricultural improvement""",1
+2025-05-06T12:30:11.049Z,826133,scl785@alumni.ku.dk,219981003,included,1
+2025-05-06T12:30:48.683Z,826133,scl785@alumni.ku.dk,219981004,"""__EXR__wrong population""",1
+2025-05-06T12:30:48.694Z,826133,scl785@alumni.ku.dk,219981004,included,-1
+2025-05-06T12:30:59.023Z,826133,scl785@alumni.ku.dk,219981005,"""fire management""",1
+2025-05-06T12:31:02.525Z,826133,scl785@alumni.ku.dk,219981005,included,1
+2025-05-06T12:32:09.217Z,826133,scl785@alumni.ku.dk,219981006,"""__EXR__wrong population""",1
+2025-05-06T12:32:09.237Z,826133,scl785@alumni.ku.dk,219981006,included,-1
+2025-05-06T12:33:06.057Z,826133,scl785@alumni.ku.dk,219981007,"""ecosystem services""",1
+2025-05-06T12:33:06.126Z,826133,scl785@alumni.ku.dk,219981007,included,1
+2025-05-06T12:33:55.800Z,826133,scl785@alumni.ku.dk,219981008,"""__EXR__driver analysis""",1
+2025-05-06T12:33:55.813Z,826133,scl785@alumni.ku.dk,219981008,included,-1
+2025-05-06T12:34:44.624Z,826133,scl785@alumni.ku.dk,219981024,"""__EXR__wrong population""",1
+2025-05-06T12:34:44.639Z,826133,scl785@alumni.ku.dk,219981024,included,-1
+2025-05-06T12:34:56.791Z,826133,scl785@alumni.ku.dk,219981025,"""livestock management""",1
+2025-05-06T12:34:57.982Z,826133,scl785@alumni.ku.dk,219981025,included,1
+2025-05-06T12:35:16.856Z,826133,scl785@alumni.ku.dk,219981026,"""__EXR__non-afolu""",1
+2025-05-06T12:35:16.868Z,826133,scl785@alumni.ku.dk,219981026,included,-1
+2025-05-06T12:35:59.613Z,826133,scl785@alumni.ku.dk,219981027,"""__EXR__non-afolu""",1
+2025-05-06T12:35:59.623Z,826133,scl785@alumni.ku.dk,219981027,included,-1
+2025-05-06T12:36:23.976Z,826133,scl785@alumni.ku.dk,219981028,"""general land use management""",1
+2025-05-06T12:36:24.990Z,826133,scl785@alumni.ku.dk,219981028,included,1
+2025-05-06T12:36:47.201Z,826133,scl785@alumni.ku.dk,219981029,"""reforestation""",1
+2025-05-06T12:36:47.923Z,826133,scl785@alumni.ku.dk,219981029,included,1
+2025-05-06T12:36:55.978Z,826133,scl785@alumni.ku.dk,219981030,"""__EXR__wrong outcome""",1
+2025-05-06T12:36:55.987Z,826133,scl785@alumni.ku.dk,219981030,included,-1
+2025-05-06T12:38:35.254Z,826133,scl785@alumni.ku.dk,219981031,"""__EXR__wrong population""",1
+2025-05-06T12:38:35.265Z,826133,scl785@alumni.ku.dk,219981031,included,-1
+2025-05-06T12:39:28.201Z,826133,scl785@alumni.ku.dk,219981009,"""__EXR__wrong population""",1
+2025-05-06T12:39:28.212Z,826133,scl785@alumni.ku.dk,219981009,included,-1
+2025-05-06T12:39:38.688Z,826133,scl785@alumni.ku.dk,219981010,"""__EXR__driver analysis""",1
+2025-05-06T12:39:38.701Z,826133,scl785@alumni.ku.dk,219981010,included,-1
+2025-05-06T12:40:12.860Z,826133,scl785@alumni.ku.dk,219981011,"""general land use management""",1
+2025-05-06T12:40:13.648Z,826133,scl785@alumni.ku.dk,219981011,included,1
+2025-05-06T12:40:25.328Z,826133,scl785@alumni.ku.dk,219981012,"""__EXR__driver analysis""",1
+2025-05-06T12:40:25.341Z,826133,scl785@alumni.ku.dk,219981012,included,-1
+2025-05-06T12:40:42.882Z,826133,scl785@alumni.ku.dk,219981013,"""state of ecosystem""",1
+2025-05-06T12:40:43.658Z,826133,scl785@alumni.ku.dk,219981013,included,1
+2025-05-06T12:40:48.588Z,826133,scl785@alumni.ku.dk,219981013,"""ecosystem services""",1
+2025-05-06T12:40:48.603Z,826133,scl785@alumni.ku.dk,219981013,"""state of ecosystem""",deleted
+2025-05-06T12:41:01.198Z,826133,scl785@alumni.ku.dk,219981014,"""__EXR__driver analysis""",1
+2025-05-06T12:41:01.209Z,826133,scl785@alumni.ku.dk,219981014,included,-1
+2025-05-06T12:41:11.673Z,826133,scl785@alumni.ku.dk,219981015,"""__EXR__wrong population""",1
+2025-05-06T12:41:11.682Z,826133,scl785@alumni.ku.dk,219981015,included,-1
+2025-05-06T12:41:23.137Z,826133,scl785@alumni.ku.dk,219981017,"""agroforestry""",1
+2025-05-06T12:41:23.488Z,826133,scl785@alumni.ku.dk,219981017,included,1
+2025-05-06T12:41:34.586Z,826133,scl785@alumni.ku.dk,219981018,"""__EXR__wrong population""",1
+2025-05-06T12:41:34.596Z,826133,scl785@alumni.ku.dk,219981018,included,-1
+2025-05-06T12:43:03.658Z,826133,scl785@alumni.ku.dk,219981019,"""__EXR__wrong outcome""",1
+2025-05-06T12:43:03.671Z,826133,scl785@alumni.ku.dk,219981019,included,-1
+2025-05-06T12:43:13.161Z,826133,scl785@alumni.ku.dk,219981020,"""__EXR__driver analysis""",1
+2025-05-06T12:43:13.172Z,826133,scl785@alumni.ku.dk,219981020,included,-1
+2025-05-06T12:43:53.585Z,826133,scl785@alumni.ku.dk,219981021,"""__EXR__wrong population""",1
+2025-05-06T12:43:53.599Z,826133,scl785@alumni.ku.dk,219981021,included,-1
+2025-05-06T12:44:06.402Z,826133,scl785@alumni.ku.dk,219981022,"""ecosystem services""",1
+2025-05-06T12:44:07.291Z,826133,scl785@alumni.ku.dk,219981022,included,1
+2025-05-06T12:44:21.590Z,826133,scl785@alumni.ku.dk,219981023,"""__EXR__wrong study design""",1
+2025-05-06T12:44:21.600Z,826133,scl785@alumni.ku.dk,219981023,included,-1
+2025-05-06T12:46:58.304Z,826133,scl785@alumni.ku.dk,219981032,"""__EXR__disturbance detection""",1
+2025-05-06T12:46:58.319Z,826133,scl785@alumni.ku.dk,219981032,included,-1
+2025-05-06T12:47:40.111Z,826133,scl785@alumni.ku.dk,219981033,"""state of ecosystem""",1
+2025-05-06T12:47:40.755Z,826133,scl785@alumni.ku.dk,219981033,included,1
+2025-05-06T12:48:11.541Z,826133,scl785@alumni.ku.dk,219981034,"""__EXR__driver analysis""",1
+2025-05-06T12:48:11.559Z,826133,scl785@alumni.ku.dk,219981034,included,-1
+2025-05-06T12:49:24.723Z,826133,scl785@alumni.ku.dk,219981036,"""__EXR__driver""",1
+2025-05-06T12:49:24.735Z,826133,scl785@alumni.ku.dk,219981036,included,-1
+2025-05-06T12:49:37.863Z,826133,scl785@alumni.ku.dk,219981037,"""livestock management""",1
+2025-05-06T12:49:38.435Z,826133,scl785@alumni.ku.dk,219981037,included,1
+2025-05-06T12:49:47.000Z,826133,scl785@alumni.ku.dk,219981038,"""state of ecosystem""",1
+2025-05-06T12:49:47.599Z,826133,scl785@alumni.ku.dk,219981038,included,1
+2025-05-06T12:50:18.072Z,826133,scl785@alumni.ku.dk,219981053,"""reforestation""",1
+2025-05-06T12:50:18.283Z,826133,scl785@alumni.ku.dk,219981053,included,1
+2025-05-06T12:50:27.081Z,826133,scl785@alumni.ku.dk,219981054,"""reforestation""",1
+2025-05-06T12:50:27.295Z,826133,scl785@alumni.ku.dk,219981054,included,1
+2025-05-06T12:50:40.057Z,826133,scl785@alumni.ku.dk,219981055,"""__EXR__wrong population""",1
+2025-05-06T12:50:40.069Z,826133,scl785@alumni.ku.dk,219981055,included,-1
+2025-05-06T12:50:47.486Z,826133,scl785@alumni.ku.dk,219981056,"""__EXR__wrong outcome""",1
+2025-05-06T12:50:47.498Z,826133,scl785@alumni.ku.dk,219981056,included,-1
+2025-05-06T12:51:06.633Z,826133,scl785@alumni.ku.dk,219981057,"""__EXR__disturbance detection""",1
+2025-05-06T12:51:06.643Z,826133,scl785@alumni.ku.dk,219981057,included,-1
+2025-05-06T12:52:50.412Z,826133,scl785@alumni.ku.dk,219981039,"""agricultural improvement""",1
+2025-05-06T12:52:50.466Z,826133,scl785@alumni.ku.dk,219981039,included,1
+2025-05-06T12:54:35.115Z,826133,scl785@alumni.ku.dk,219981040,"""__EXR__wrong outcome""",1
+2025-05-06T12:54:35.126Z,826133,scl785@alumni.ku.dk,219981040,included,-1
+2025-05-06T12:54:48.422Z,826133,scl785@alumni.ku.dk,219981041,"""reforestation""",1
+2025-05-06T12:54:48.655Z,826133,scl785@alumni.ku.dk,219981041,included,1
+2025-05-06T12:54:58.715Z,826133,scl785@alumni.ku.dk,219981042,"""agroforestry""",1
+2025-05-06T12:54:59.002Z,826133,scl785@alumni.ku.dk,219981042,included,1
+2025-05-06T12:55:49.652Z,826133,scl785@alumni.ku.dk,219981043,"""general""",1
+2025-05-06T12:55:53.616Z,826133,scl785@alumni.ku.dk,219981043,"""general land use management""",1
+2025-05-06T12:55:53.629Z,826133,scl785@alumni.ku.dk,219981043,"""general""",deleted
+2025-05-06T12:55:53.938Z,826133,scl785@alumni.ku.dk,219981043,included,1
+2025-05-06T12:56:01.482Z,826133,scl785@alumni.ku.dk,219981044,"""__EXR__non-afolu""",1
+2025-05-06T12:56:01.495Z,826133,scl785@alumni.ku.dk,219981044,included,-1
+2025-05-06T12:56:58.408Z,826133,scl785@alumni.ku.dk,219981045,"""__EXR__disturbance detection""",1
+2025-05-06T12:56:58.420Z,826133,scl785@alumni.ku.dk,219981045,included,-1
+2025-05-06T12:57:05.533Z,826133,scl785@alumni.ku.dk,219981046,"""__EXR__disturbance detection""",1
+2025-05-06T12:57:05.562Z,826133,scl785@alumni.ku.dk,219981046,included,-1
+2025-05-06T12:57:12.499Z,826133,scl785@alumni.ku.dk,219981047,"""ecosystem services""",1
+2025-05-06T12:57:12.777Z,826133,scl785@alumni.ku.dk,219981047,included,1
+2025-05-06T12:57:51.084Z,826133,scl785@alumni.ku.dk,219981048,"""ecosystem services""",1
+2025-05-06T12:57:51.332Z,826133,scl785@alumni.ku.dk,219981048,included,1
+2025-05-06T12:58:07.492Z,826133,scl785@alumni.ku.dk,219981049,"""reforestation""",1
+2025-05-06T12:58:07.710Z,826133,scl785@alumni.ku.dk,219981049,included,1
+2025-05-06T12:58:14.533Z,826133,scl785@alumni.ku.dk,219981050,"""agroforestry""",1
+2025-05-06T12:58:14.756Z,826133,scl785@alumni.ku.dk,219981050,included,1
+2025-05-06T12:58:46.679Z,826133,scl785@alumni.ku.dk,219981051,"""livestock management""",1
+2025-05-06T12:58:46.955Z,826133,scl785@alumni.ku.dk,219981051,included,1
+2025-05-06T12:58:55.756Z,826133,scl785@alumni.ku.dk,219981052,"""__EXR__wrong outcome""",1
+2025-05-06T12:58:55.766Z,826133,scl785@alumni.ku.dk,219981052,included,-1
+2025-05-06T13:02:07.998Z,826133,scl785@alumni.ku.dk,219981058,"""agricultural improvement""",1
+2025-05-06T13:02:08.002Z,826133,scl785@alumni.ku.dk,219981058,included,1
+2025-05-06T13:03:24.737Z,826133,scl785@alumni.ku.dk,219981059,"""natural succession""",1
+2025-05-06T13:03:27.917Z,826133,scl785@alumni.ku.dk,219981059,included,1
+2025-05-06T13:04:30.262Z,826133,scl785@alumni.ku.dk,219981060,"""__EXR__wrong population""",1
+2025-05-06T13:04:30.275Z,826133,scl785@alumni.ku.dk,219981060,included,-1
+2025-05-06T13:04:35.374Z,826133,scl785@alumni.ku.dk,219981060,"""__EXR__non-ncs""",1
+2025-05-06T13:04:35.384Z,826133,scl785@alumni.ku.dk,219981060,included,-1
+2025-05-06T13:04:42.652Z,826133,scl785@alumni.ku.dk,219981061,"""__EXR__wrong population""",deleted
+2025-05-06T13:04:47.119Z,826133,scl785@alumni.ku.dk,219981060,"""__EXR__wrong population""",deleted
+2025-05-06T13:07:17.818Z,826133,scl785@alumni.ku.dk,219981061,included,1
+2025-05-06T13:07:17.821Z,826133,scl785@alumni.ku.dk,219981061,"""agroforestry""",1
+2025-05-06T13:07:49.869Z,826133,scl785@alumni.ku.dk,219981063,"""state of ecosystem""",1
+2025-05-06T13:07:50.691Z,826133,scl785@alumni.ku.dk,219981063,included,1
+2025-05-06T13:07:56.194Z,826133,scl785@alumni.ku.dk,219981064,"""__EXR__non-afolu""",1
+2025-05-06T13:07:56.206Z,826133,scl785@alumni.ku.dk,219981064,included,-1
+2025-05-06T13:10:36.795Z,826133,scl785@alumni.ku.dk,219981079,included,1
+2025-05-06T13:10:36.860Z,826133,scl785@alumni.ku.dk,219981079,"""ecosystem services""",1
+2025-05-06T13:12:53.542Z,826133,scl785@alumni.ku.dk,219981080,"""__EXR__non-ncs""",1
+2025-05-06T13:12:53.555Z,826133,scl785@alumni.ku.dk,219981080,included,-1
+2025-05-06T13:13:24.904Z,826133,scl785@alumni.ku.dk,219981081,"""__EXR__wrong population""",1
+2025-05-06T13:13:24.916Z,826133,scl785@alumni.ku.dk,219981081,included,-1
+2025-05-06T13:13:38.017Z,826133,scl785@alumni.ku.dk,219981082,"""__EXR__driver analysis""",1
+2025-05-06T13:13:38.030Z,826133,scl785@alumni.ku.dk,219981082,included,-1
+2025-05-06T13:14:35.307Z,826133,scl785@alumni.ku.dk,219981084,"""nutrient management""",1
+2025-05-06T13:14:37.202Z,826133,scl785@alumni.ku.dk,219981084,included,1
+2025-05-06T13:14:45.324Z,826133,scl785@alumni.ku.dk,219981085,"""__EXR__driver analysis""",1
+2025-05-06T13:14:45.336Z,826133,scl785@alumni.ku.dk,219981085,included,-1
+2025-05-06T13:14:52.509Z,826133,scl785@alumni.ku.dk,219981086,"""__EXR__wrong population""",1
+2025-05-06T13:14:52.520Z,826133,scl785@alumni.ku.dk,219981086,included,-1
+2025-05-06T13:15:21.456Z,826133,scl785@alumni.ku.dk,219981087,"""agricultural improvement""",1
+2025-05-06T13:15:22.400Z,826133,scl785@alumni.ku.dk,219981087,included,1
+2025-05-06T13:15:33.648Z,826133,scl785@alumni.ku.dk,219981088,"""__EXR__wrong study design""",1
+2025-05-06T13:15:33.663Z,826133,scl785@alumni.ku.dk,219981088,included,-1
+2025-05-06T13:15:37.904Z,826133,scl785@alumni.ku.dk,219981089,"""state of ecosystem""",1
+2025-05-06T13:15:38.251Z,826133,scl785@alumni.ku.dk,219981089,included,1
+2025-05-06T13:16:25.055Z,826133,scl785@alumni.ku.dk,219982729,"""__EXR__wrong outcome""",1
+2025-05-06T13:16:25.069Z,826133,scl785@alumni.ku.dk,219982729,included,-1
+2025-05-06T13:16:31.800Z,826133,scl785@alumni.ku.dk,219983222,"""__EXR__wrong outcome""",1
+2025-05-06T13:16:31.814Z,826133,scl785@alumni.ku.dk,219983222,included,-1
+2025-05-06T13:16:59.323Z,826133,scl785@alumni.ku.dk,219981822,"""agricultural improvement""",1
+2025-05-06T13:17:00.504Z,826133,scl785@alumni.ku.dk,219981822,included,1
+2025-05-06T13:17:08.977Z,826133,scl785@alumni.ku.dk,219983007,"""__EXR__non-afolu""",1
+2025-05-06T13:17:08.988Z,826133,scl785@alumni.ku.dk,219983007,included,-1
+2025-05-06T13:17:14.788Z,826133,scl785@alumni.ku.dk,219981874,"""__EXR__wrong outcome""",1
+2025-05-06T13:17:14.799Z,826133,scl785@alumni.ku.dk,219981874,included,-1
+2025-05-06T13:17:22.632Z,826133,scl785@alumni.ku.dk,219982248,"""__EXR__wrong outcome""",1
+2025-05-06T13:17:22.646Z,826133,scl785@alumni.ku.dk,219982248,included,-1
+2025-05-06T13:19:58.702Z,826133,scl785@alumni.ku.dk,219983065,"""__EXR__wrong population""",1
+2025-05-06T13:19:58.716Z,826133,scl785@alumni.ku.dk,219983065,included,-1
+2025-05-06T13:21:14.253Z,826133,scl785@alumni.ku.dk,219981065,"""__EXR__driver analysis""",1
+2025-05-06T13:21:14.267Z,826133,scl785@alumni.ku.dk,219981065,included,-1
+2025-05-06T13:21:22.082Z,826133,scl785@alumni.ku.dk,219982768,"""__EXR__wrong outcome""",1
+2025-05-06T13:21:22.096Z,826133,scl785@alumni.ku.dk,219982768,included,-1
+2025-05-06T13:21:47.662Z,826133,scl785@alumni.ku.dk,219981150,"""__EXR__wrong population""",1
+2025-05-06T13:21:47.672Z,826133,scl785@alumni.ku.dk,219981150,included,-1
+2025-05-06T13:22:07.857Z,826133,scl785@alumni.ku.dk,219982648,"""__EXR__wrong outcome""",1
+2025-05-06T13:22:07.873Z,826133,scl785@alumni.ku.dk,219982648,included,-1
+2025-05-06T13:24:31.669Z,826133,scl785@alumni.ku.dk,219982988,"""__EXR__wrong population""",1
+2025-05-06T13:24:31.681Z,826133,scl785@alumni.ku.dk,219982988,included,-1
+2025-05-06T13:25:11.632Z,826133,scl785@alumni.ku.dk,219981073,"""__EXR__wrong population""",1
+2025-05-06T13:25:11.642Z,826133,scl785@alumni.ku.dk,219981073,included,-1
+2025-05-06T13:25:44.530Z,826133,scl785@alumni.ku.dk,219982295,"""__EXR__non-tropical""",1
+2025-05-06T13:25:44.543Z,826133,scl785@alumni.ku.dk,219982295,included,-1
+2025-05-06T13:25:52.986Z,826133,scl785@alumni.ku.dk,219983076,"""agroforestry""",1
+2025-05-06T13:25:53.522Z,826133,scl785@alumni.ku.dk,219983076,included,1
+2025-05-06T13:27:11.060Z,826133,scl785@alumni.ku.dk,219981185,included,1
+2025-05-06T13:27:11.256Z,826133,scl785@alumni.ku.dk,219981185,"""avoided forest conversion""",1
+2025-05-06T13:27:27.734Z,826133,scl785@alumni.ku.dk,219982817,"""__EXR__distur""",1
+2025-05-06T13:27:27.751Z,826133,scl785@alumni.ku.dk,219982817,included,-1
+2025-05-06T13:27:35.198Z,826133,scl785@alumni.ku.dk,219982817,"""__EXR__disturbance detection""",1
+2025-05-06T13:27:35.211Z,826133,scl785@alumni.ku.dk,219982817,included,-1
+2025-05-06T13:27:35.257Z,826133,scl785@alumni.ku.dk,219982817,"""__EXR__distur""",deleted
+2025-05-06T13:27:49.971Z,826133,scl785@alumni.ku.dk,219981218,"""__EXR__driver""",1
+2025-05-06T13:27:49.984Z,826133,scl785@alumni.ku.dk,219981218,included,-1
+2025-05-06T13:28:00.401Z,826133,scl785@alumni.ku.dk,219983012,"""__EXR__disturbance detection""",1
+2025-05-06T13:28:00.416Z,826133,scl785@alumni.ku.dk,219983012,included,-1
+2025-05-06T13:28:43.320Z,826133,scl785@alumni.ku.dk,219981821,"""__EXR__wrong outcome""",1
+2025-05-06T13:28:43.334Z,826133,scl785@alumni.ku.dk,219981821,included,-1
+2025-05-06T13:29:33.951Z,826133,scl785@alumni.ku.dk,219982315,"""general land use management""",1
+2025-05-06T13:29:34.172Z,826133,scl785@alumni.ku.dk,219982315,included,1
+2025-05-06T13:30:34.003Z,826133,scl785@alumni.ku.dk,219981951,"""__EXR__disturbance detection""",1
+2025-05-06T13:30:34.016Z,826133,scl785@alumni.ku.dk,219981951,included,-1
+2025-05-06T13:31:00.468Z,826133,scl785@alumni.ku.dk,219982977,"""__EXR__wrong population""",1
+2025-05-06T13:31:00.481Z,826133,scl785@alumni.ku.dk,219982977,included,-1
+2025-05-06T13:31:47.087Z,826133,scl785@alumni.ku.dk,219982899,"""__EXR__disturbance detection""",1
+2025-05-06T13:31:47.105Z,826133,scl785@alumni.ku.dk,219982899,included,-1
+2025-05-06T13:32:13.282Z,826133,scl785@alumni.ku.dk,219981187,"""__EXR__wrong outcome""",1
+2025-05-06T13:32:13.298Z,826133,scl785@alumni.ku.dk,219981187,included,-1
+2025-05-06T13:32:53.251Z,826133,scl785@alumni.ku.dk,219981805,"""__EXR__non-ncs""",1
+2025-05-06T13:32:53.282Z,826133,scl785@alumni.ku.dk,219981805,included,-1
+2025-05-06T13:33:13.432Z,826133,scl785@alumni.ku.dk,219982902,"""ecosystem services""",1
+2025-05-06T13:33:13.956Z,826133,scl785@alumni.ku.dk,219982902,included,1
+2025-05-06T13:34:53.528Z,826133,scl785@alumni.ku.dk,219981828,"""__EXR__disturbance detection""",1
+2025-05-06T13:34:53.549Z,826133,scl785@alumni.ku.dk,219981828,included,-1
+2025-05-06T13:35:06.223Z,826133,scl785@alumni.ku.dk,219983145,"""__EXR__wrong outcome""",1
+2025-05-06T13:35:06.239Z,826133,scl785@alumni.ku.dk,219983145,included,-1
+2025-05-06T13:35:17.686Z,826133,scl785@alumni.ku.dk,219982446,"""__EXR__disturbance detection""",1
+2025-05-06T13:35:17.701Z,826133,scl785@alumni.ku.dk,219982446,included,-1
+2025-05-06T13:35:24.582Z,826133,scl785@alumni.ku.dk,219983039,"""__EXR__dis""",1
+2025-05-06T13:35:24.596Z,826133,scl785@alumni.ku.dk,219983039,included,-1
+2025-05-06T13:35:31.857Z,826133,scl785@alumni.ku.dk,219983039,"""__EXR__disturbance detection""",1
+2025-05-06T13:35:31.880Z,826133,scl785@alumni.ku.dk,219983039,included,-1
+2025-05-06T13:35:31.958Z,826133,scl785@alumni.ku.dk,219983039,"""__EXR__dis""",deleted
+2025-05-06T13:35:31.969Z,826133,scl785@alumni.ku.dk,219983039,"""__EXR__driver analysis""",deleted
+2025-05-06T13:37:40.960Z,826133,scl785@alumni.ku.dk,219981066,included,1
+2025-05-06T13:37:40.980Z,826133,scl785@alumni.ku.dk,219981066,"""agroforestry""",1
+2025-05-06T13:38:01.219Z,826133,scl785@alumni.ku.dk,219981067,"""reforestation""",1
+2025-05-06T13:38:01.696Z,826133,scl785@alumni.ku.dk,219981067,included,1
+2025-05-06T13:38:18.046Z,826133,scl785@alumni.ku.dk,219981068,"""avoided forest conversion""",1
+2025-05-06T13:38:28.657Z,826133,scl785@alumni.ku.dk,219981068,"""ecosystem services""",1
+2025-05-06T13:38:28.669Z,826133,scl785@alumni.ku.dk,219981068,"""avoided forest conversion""",deleted
+2025-05-06T13:38:29.177Z,826133,scl785@alumni.ku.dk,219981068,included,1
+2025-05-06T13:40:09.943Z,826133,scl785@alumni.ku.dk,219981069,included,1
+2025-05-06T13:40:09.944Z,826133,scl785@alumni.ku.dk,219981069,"""agroforestry""",1
+2025-05-06T13:40:18.506Z,826133,scl785@alumni.ku.dk,219981070,"""reforestation""",1
+2025-05-06T13:40:19.024Z,826133,scl785@alumni.ku.dk,219981070,included,1
+2025-05-06T13:40:45.004Z,826133,scl785@alumni.ku.dk,219981071,"""reforestation""",1
+2025-05-06T13:40:45.514Z,826133,scl785@alumni.ku.dk,219981071,included,1
+2025-05-06T13:41:10.611Z,826133,scl785@alumni.ku.dk,219981072,"""state of ecosystem""",1
+2025-05-06T13:41:10.847Z,826133,scl785@alumni.ku.dk,219981072,included,1
+2025-05-06T13:41:19.750Z,826133,scl785@alumni.ku.dk,219981074,"""agricultural improvement""",1
+2025-05-06T13:41:20.074Z,826133,scl785@alumni.ku.dk,219981074,included,1
+2025-05-06T13:41:26.507Z,826133,scl785@alumni.ku.dk,219981075,"""__EXR__disturbance detection""",1
+2025-05-06T13:41:26.521Z,826133,scl785@alumni.ku.dk,219981075,included,-1
+2025-05-06T13:41:26.790Z,826133,scl785@alumni.ku.dk,219981076,included,1
+2025-05-06T13:41:44.216Z,826133,scl785@alumni.ku.dk,219981076,"""__EXR__driver analysis""",1
+2025-05-06T13:41:44.229Z,826133,scl785@alumni.ku.dk,219981076,included,-1
+2025-05-06T13:41:53.601Z,826133,scl785@alumni.ku.dk,219981077,"""__EXR__wrong outcome""",1
+2025-05-06T13:41:53.612Z,826133,scl785@alumni.ku.dk,219981077,included,-1
+2025-05-06T13:42:07.771Z,826133,scl785@alumni.ku.dk,219981078,"""state of ecosystem""",1
+2025-05-06T13:42:08.079Z,826133,scl785@alumni.ku.dk,219981078,included,1
+2025-05-06T13:42:21.356Z,826133,scl785@alumni.ku.dk,219981090,"""__EXR__non-afolu""",1
+2025-05-06T13:42:21.365Z,826133,scl785@alumni.ku.dk,219981090,included,-1
+2025-05-06T13:48:51.704Z,826133,scl785@alumni.ku.dk,219981091,"""reforestation""",1
+2025-05-06T13:48:51.905Z,826133,scl785@alumni.ku.dk,219981091,included,1
+2025-05-06T13:48:56.053Z,826133,scl785@alumni.ku.dk,219981092,"""__EXR__non-afolu""",1
+2025-05-06T13:48:56.075Z,826133,scl785@alumni.ku.dk,219981092,included,-1
+2025-05-06T13:49:06.281Z,826133,scl785@alumni.ku.dk,219981093,"""__EXR__wrong outcome""",1
+2025-05-06T13:49:06.297Z,826133,scl785@alumni.ku.dk,219981093,included,-1
+2025-05-06T13:49:11.885Z,826133,scl785@alumni.ku.dk,219981094,"""__EXR__disturbance detection""",1
+2025-05-06T13:49:11.902Z,826133,scl785@alumni.ku.dk,219981094,included,-1
+2025-05-06T13:49:29.188Z,826133,scl785@alumni.ku.dk,219981095,"""__EXR__wrong outcome""",1
+2025-05-06T13:49:29.203Z,826133,scl785@alumni.ku.dk,219981095,included,-1
+2025-05-06T13:49:34.977Z,826133,scl785@alumni.ku.dk,219981096,"""reforestation""",1
+2025-05-06T13:49:35.583Z,826133,scl785@alumni.ku.dk,219981096,included,1
+2025-05-06T13:49:40.495Z,826133,scl785@alumni.ku.dk,219981097,"""reforestation""",1
+2025-05-06T13:49:41.001Z,826133,scl785@alumni.ku.dk,219981097,included,1
+2025-05-06T13:49:52.141Z,826133,scl785@alumni.ku.dk,219981113,"""avoided forest conversion""",1
+2025-05-06T13:49:52.382Z,826133,scl785@alumni.ku.dk,219981113,included,1
+2025-05-06T13:50:20.432Z,826133,scl785@alumni.ku.dk,219981114,"""reforestation""",1
+2025-05-06T13:50:20.785Z,826133,scl785@alumni.ku.dk,219981114,included,1
+2025-05-06T13:50:33.228Z,826133,scl785@alumni.ku.dk,219981115,"""__EXR__wrong population""",1
+2025-05-06T13:50:33.243Z,826133,scl785@alumni.ku.dk,219981115,included,-1
+2025-05-06T13:50:37.146Z,826133,scl785@alumni.ku.dk,219981116,"""state of ecosystem""",1
+2025-05-06T13:50:37.491Z,826133,scl785@alumni.ku.dk,219981116,included,1
+2025-05-06T13:51:07.158Z,826133,scl785@alumni.ku.dk,219981118,"""reforestation""",1
+2025-05-06T13:51:07.471Z,826133,scl785@alumni.ku.dk,219981118,included,1
+2025-05-06T13:51:15.857Z,826133,scl785@alumni.ku.dk,219981119,"""ecosystem services""",1
+2025-05-06T13:51:16.063Z,826133,scl785@alumni.ku.dk,219981119,included,1
+2025-05-06T13:51:20.784Z,826133,scl785@alumni.ku.dk,219981120,"""__EXR__wrong outcome""",1
+2025-05-06T13:51:20.798Z,826133,scl785@alumni.ku.dk,219981120,included,-1
+2025-05-06T13:51:34.282Z,826133,scl785@alumni.ku.dk,219981121,"""__EXR__wrong outcome""",1
+2025-05-06T13:51:34.305Z,826133,scl785@alumni.ku.dk,219981121,included,-1
+2025-05-06T13:51:34.688Z,826133,scl785@alumni.ku.dk,219981122,included,1
+2025-05-06T13:51:46.083Z,826133,scl785@alumni.ku.dk,219981122,"""__EXR__wrong population""",1
+2025-05-06T13:51:46.101Z,826133,scl785@alumni.ku.dk,219981122,included,-1
+2025-05-06T13:52:27.976Z,826133,scl785@alumni.ku.dk,219981098,"""__EXR__wrong outcome""",1
+2025-05-06T13:52:27.988Z,826133,scl785@alumni.ku.dk,219981098,included,-1
+2025-05-06T13:53:12.411Z,826133,scl785@alumni.ku.dk,219981099,"""agroforestry""",1
+2025-05-06T13:53:12.642Z,826133,scl785@alumni.ku.dk,219981099,included,1
+2025-05-06T13:53:17.904Z,826133,scl785@alumni.ku.dk,219981100,"""__EXR__disturbance detection""",1
+2025-05-06T13:53:17.939Z,826133,scl785@alumni.ku.dk,219981100,included,-1
+2025-05-06T13:53:23.805Z,826133,scl785@alumni.ku.dk,219981101,"""reforestation""",1
+2025-05-06T13:53:24.082Z,826133,scl785@alumni.ku.dk,219981101,included,1
+2025-05-06T13:53:32.487Z,826133,scl785@alumni.ku.dk,219981102,"""__EXR__wrong outcome""",1
+2025-05-06T13:53:32.500Z,826133,scl785@alumni.ku.dk,219981102,included,-1
+2025-05-06T13:53:41.537Z,826133,scl785@alumni.ku.dk,219981103,"""reforestation""",1
+2025-05-06T13:53:42.064Z,826133,scl785@alumni.ku.dk,219981103,included,1
+2025-05-06T13:55:32.409Z,826133,scl785@alumni.ku.dk,219981104,"""ecosystem services""",1
+2025-05-06T13:55:32.612Z,826133,scl785@alumni.ku.dk,219981104,included,1
+2025-05-06T13:55:37.719Z,826133,scl785@alumni.ku.dk,219981105,"""__EXR__threat to resilience""",1
+2025-05-06T13:55:37.737Z,826133,scl785@alumni.ku.dk,219981105,included,-1
+2025-05-06T13:55:50.071Z,826133,scl785@alumni.ku.dk,219981106,"""state of ecosystem""",1
+2025-05-06T13:55:50.267Z,826133,scl785@alumni.ku.dk,219981106,included,1
+2025-05-06T13:55:55.163Z,826133,scl785@alumni.ku.dk,219981107,"""agroforestry""",1
+2025-05-06T13:55:55.376Z,826133,scl785@alumni.ku.dk,219981107,included,1
+2025-05-06T13:56:06.382Z,826133,scl785@alumni.ku.dk,219981108,"""__EXR__wrong outcome""",1
+2025-05-06T13:56:06.395Z,826133,scl785@alumni.ku.dk,219981108,included,-1
+2025-05-06T13:56:16.580Z,826133,scl785@alumni.ku.dk,219981109,"""agricultural improvement""",1
+2025-05-06T13:56:16.838Z,826133,scl785@alumni.ku.dk,219981109,included,1
+2025-05-06T13:57:14.529Z,826133,scl785@alumni.ku.dk,219981110,"""__EXR__disturbance detection""",1
+2025-05-06T13:57:14.561Z,826133,scl785@alumni.ku.dk,219981110,included,-1
+2025-05-06T13:57:41.079Z,826133,scl785@alumni.ku.dk,219981111,"""__EXR__wrong population""",1
+2025-05-06T13:57:41.091Z,826133,scl785@alumni.ku.dk,219981111,included,-1
+2025-05-06T13:58:12.035Z,826133,scl785@alumni.ku.dk,219981112,"""state of ecosystem""",1
+2025-05-06T13:58:12.698Z,826133,scl785@alumni.ku.dk,219981112,included,1
+2025-05-06T13:58:21.465Z,826133,scl785@alumni.ku.dk,219981123,"""__EXR__wrong out""",1
+2025-05-06T13:58:21.477Z,826133,scl785@alumni.ku.dk,219981123,included,-1
+2025-05-06T13:58:29.961Z,826133,scl785@alumni.ku.dk,219981123,"""__EXR__wrong outcome""",1
+2025-05-06T13:58:30.061Z,826133,scl785@alumni.ku.dk,219981123,included,-1
+2025-05-06T13:58:30.116Z,826133,scl785@alumni.ku.dk,219981123,"""__EXR__wrong out""",deleted
+2025-05-06T13:58:58.829Z,826133,scl785@alumni.ku.dk,219981124,"""avoided forest conversion""",1
+2025-05-06T13:58:59.071Z,826133,scl785@alumni.ku.dk,219981124,included,1
+2025-05-06T13:59:21.780Z,826133,scl785@alumni.ku.dk,219981125,"""state of ecosystem""",1
+2025-05-06T13:59:22.081Z,826133,scl785@alumni.ku.dk,219981125,included,1
+2025-05-06T13:59:37.138Z,826133,scl785@alumni.ku.dk,219981126,"""ecosystem services""",1
+2025-05-06T13:59:37.381Z,826133,scl785@alumni.ku.dk,219981126,included,1
+2025-05-06T14:01:40.781Z,826133,scl785@alumni.ku.dk,219981138,"""__EXR__non-ncs""",1
+2025-05-06T14:01:40.793Z,826133,scl785@alumni.ku.dk,219981138,included,-1
+2025-05-06T14:02:05.488Z,826133,scl785@alumni.ku.dk,219981127,"""state of ecosystem""",1
+2025-05-06T14:02:06.052Z,826133,scl785@alumni.ku.dk,219981127,included,1
+2025-05-06T14:02:11.830Z,826133,scl785@alumni.ku.dk,219981128,"""agroforestry""",1
+2025-05-06T14:02:12.022Z,826133,scl785@alumni.ku.dk,219981128,included,1
+2025-05-06T14:02:23.107Z,826133,scl785@alumni.ku.dk,219981129,"""__EXR__wrong outcome""",1
+2025-05-06T14:02:23.119Z,826133,scl785@alumni.ku.dk,219981129,included,-1
+2025-05-06T14:02:30.593Z,826133,scl785@alumni.ku.dk,219981130,"""__EXR__wrong outcome""",1
+2025-05-06T14:02:30.603Z,826133,scl785@alumni.ku.dk,219981130,included,-1
+2025-05-06T14:02:53.806Z,826133,scl785@alumni.ku.dk,219981131,"""ecosystem services""",1
+2025-05-06T14:02:54.065Z,826133,scl785@alumni.ku.dk,219981131,included,1
+2025-05-06T14:03:10.905Z,826133,scl785@alumni.ku.dk,219981132,"""__EXR__wrong population""",1
+2025-05-06T14:03:10.956Z,826133,scl785@alumni.ku.dk,219981132,included,-1
+2025-05-06T14:03:33.524Z,826133,scl785@alumni.ku.dk,219981133,"""general land use management""",1
+2025-05-06T14:03:33.708Z,826133,scl785@alumni.ku.dk,219981133,included,1
+2025-05-06T14:03:37.907Z,826133,scl785@alumni.ku.dk,219981134,"""__EXR__wrong outcome""",1
+2025-05-06T14:03:37.920Z,826133,scl785@alumni.ku.dk,219981134,included,-1
+2025-05-06T14:03:50.870Z,826133,scl785@alumni.ku.dk,219981134,"""__EXR__disturbance detection""",1
+2025-05-06T14:03:50.882Z,826133,scl785@alumni.ku.dk,219981134,included,-1
+2025-05-06T14:03:55.940Z,826133,scl785@alumni.ku.dk,219981134,"""__EXR__wrong outcome""",deleted
+2025-05-06T14:04:24.999Z,826133,scl785@alumni.ku.dk,219981135,"""general land use management""",1
+2025-05-06T14:04:29.457Z,826133,scl785@alumni.ku.dk,219981135,included,1
+2025-05-06T14:04:50.804Z,826133,scl785@alumni.ku.dk,219981136,"""agricultural improvement""",1
+2025-05-06T14:04:51.496Z,826133,scl785@alumni.ku.dk,219981136,included,1
+2025-05-06T14:05:01.750Z,826133,scl785@alumni.ku.dk,219981137,"""state of ecosystem""",1
+2025-05-06T14:05:05.491Z,826133,scl785@alumni.ku.dk,219981137,included,1
+2025-05-06T14:11:58.610Z,826133,scl785@alumni.ku.dk,219981139,included,1
+2025-05-06T14:11:58.631Z,826133,scl785@alumni.ku.dk,219981139,"""state of ecosystem""",1
+2025-05-06T14:12:01.565Z,826133,scl785@alumni.ku.dk,219981140,included,-1
+2025-05-06T14:12:05.933Z,826133,scl785@alumni.ku.dk,219981140,"""agroforestry""",1
+2025-05-06T14:12:06.381Z,826133,scl785@alumni.ku.dk,219981140,included,1

@@ -1,0 +1,837 @@
+"","labels","relevant","count"
+"1","agroforestry","landscape",4
+"2","agroforestry","agroforestry",3
+"3","agroforestry","biodiversity",3
+"4","agroforestry","carbon",3
+"5","agroforestry","species",3
+"6","agroforestry","biomass",2
+"7","agroforestry","birds",2
+"8","agroforestry","combining",2
+"9","agroforestry","effects",2
+"10","agroforestry","epiphytic",2
+"11","agroforestry","ghg",2
+"12","agroforestry","hidden",2
+"13","agroforestry","influence",2
+"14","agroforestry","microbiome",2
+"15","agroforestry","n",2
+"16","agroforestry","n2",2
+"17","agroforestry","plant",2
+"18","agroforestry","positive",2
+"19","agroforestry","productive",2
+"20","agroforestry","seed",2
+"21","agroforestry","shaping",2
+"22","agroforestry","tek",2
+"23","agroforestry","termite",2
+"24","agroforestry","tree",2
+"25","agroforestry ","status",2
+"26","agroforestry ","impact",1
+"27","agroforestry ","impacts",1
+"28","agroforestry ","shad",1
+"29","agroforestry ","shade",1
+"30","agroforestry","agroec",1
+"31","avoided forest conversion","agroec",1
+"32","natural forest management","agroec",1
+"33","agroforestry","agroecosystem",1
+"34","avoided forest conversion","agroecosystem",1
+"35","natural forest management","agroecosystem",1
+"36","agroforestry","shad",1
+"37","degradation indicator ","shad",1
+"38","agroforestry","shade",1
+"39","degradation indicator ","shade",1
+"40","agroforestry","economic",2
+"41","ecosystem services","economic",2
+"42","agroforestry","seed",2
+"43","ecosystem services","seed",2
+"44","agroforestry","sustainable",2
+"45","ecosystem services","sustainable",2
+"46","agroforestry","agrofor",1
+"47","ecosystem services","agrofor",1
+"48","agroforestry","agroforestry",1
+"49","ecosystem services","agroforestry",1
+"50","agroforestry","measur",1
+"51","ecosystem services","measur",1
+"52","agroforestry","measuring",1
+"53","ecosystem services","measuring",1
+"54","agroforestry","synthesi",1
+"55","ecosystem services","synthesi",1
+"56","agroforestry","synthesis",1
+"57","ecosystem services","synthesis",1
+"58","agroforestry","value",1
+"59","ecosystem services","value",1
+"60","agroforestry","values",1
+"61","ecosystem services","values",1
+"62","agroforestry","forest",2
+"63","improved agriculture","forest",2
+"64","agroforestry","removing",2
+"65","improved agriculture","removing",2
+"66","agroforestry","woody",2
+"67","improved agriculture","woody",2
+"68","agroforestry","croppi",1
+"69","improved agriculture","croppi",1
+"70","agroforestry","cropping",1
+"71","improved agriculture","cropping",1
+"72","agroforestry","resp",1
+"73","improved agriculture","resp",1
+"74","agroforestry","responses",1
+"75","improved agriculture","responses",1
+"76","agroforestry","cert",1
+"77","natural forest management","cert",1
+"78","agroforestry","certification",1
+"79","natural forest management","certification",1
+"80","agroforestry","conversi",1
+"81","natural forest management","conversi",1
+"82","agroforestry","conversion",1
+"83","natural forest management","conversion",1
+"84","agroforestry","ecosyst",1
+"85","natural forest management","ecosyst",1
+"86","agroforestry","ecosystem",1
+"87","natural forest management","ecosystem",1
+"88","agroforestry","tropic",1
+"89","reforestation","tropic",1
+"90","agroforestry","tropical",1
+"91","reforestation","tropical",1
+"92","agroforestry","inventory",2
+"93","state of ecosystem","inventory",2
+"94","agroforestry","soil",2
+"95","state of ecosystem","soil",2
+"96","agroforestry","modelin",1
+"97","state of ecosystem","modelin",1
+"98","agroforestry","modeling",1
+"99","state of ecosystem","modeling",1
+"100","agroforestry","plan",1
+"101","state of ecosystem","plan",1
+"102","agroforestry","plant",1
+"103","state of ecosystem","plant",1
+"104","agroforestry","coff",1
+"105","threat to resilience","coff",1
+"106","agroforestry","coffee",1
+"107","threat to resilience","coffee",1
+"108","agroforestry","pests",2
+"109","threat to resilience ","pests",2
+"110","avoided forest conversion","40",2
+"111","avoided forest conversion","assessing",2
+"112","avoided forest conversion","climatic",2
+"113","avoided forest conversion","evaluation",2
+"114","avoided forest conversion","examining",2
+"115","avoided forest conversion","flora",2
+"116","avoided forest conversion","floristic",2
+"117","avoided forest conversion","framework",2
+"118","avoided forest conversion","impacts",2
+"119","avoided forest conversion","monitoring",2
+"120","avoided forest conversion","nitrogen",2
+"121","avoided forest conversion","parks",2
+"122","avoided forest conversion","stone",2
+"123","avoided forest conversion","tree",2
+"124","avoided forest conversion","tropical",2
+"125","avoided forest conversion ","assessment",2
+"126","avoided forest conversion","asse",1
+"127","natural forest management","asse",1
+"128","avoided forest conversion","assessment",1
+"129","natural forest management","assessment",1
+"130","avoided woodfuel","carbon",2
+"131","degradation indicator","forest",10
+"132","degradation indicator","effects",5
+"133","degradation indicator","drivers",4
+"134","degradation indicator","fire",4
+"135","degradation indicator","local",4
+"136","degradation indicator","tree",4
+"137","degradation indicator","assess",3
+"138","degradation indicator","impact",3
+"139","degradation indicator","amazonian",2
+"140","degradation indicator","assessing",2
+"141","degradation indicator","bird",2
+"142","degradation indicator","breakdown",2
+"143","degradation indicator","common",2
+"144","degradation indicator","control",2
+"145","degradation indicator","discerning",2
+"146","degradation indicator","diversity",2
+"147","degradation indicator","edaphic",2
+"148","degradation indicator","edge",2
+"149","degradation indicator","evidence",2
+"150","degradation indicator","fate",2
+"151","degradation indicator","gis",2
+"152","degradation indicator","impacts",2
+"153","degradation indicator","increased",2
+"154","degradation indicator","land",2
+"155","degradation indicator","loss",2
+"156","degradation indicator","mapping",2
+"157","degradation indicator","mirror",2
+"158","degradation indicator","monitoring",2
+"159","degradation indicator","multiple",2
+"160","degradation indicator","n",2
+"161","degradation indicator","passive",2
+"162","degradation indicator","quantifying",2
+"163","degradation indicator","recent",2
+"164","degradation indicator","redd",2
+"165","degradation indicator","reduction",2
+"166","degradation indicator","role",2
+"167","degradation indicator","scale",2
+"168","degradation indicator","signs",2
+"169","degradation indicator","sources",2
+"170","degradation indicator","spatial",2
+"171","degradation indicator","spatio",2
+"172","degradation indicator","term",2
+"173","degradation indicator","termite",2
+"174","degradation indicator","tropical",2
+"175","degradation indicator","socioe",1
+"176","avoided forest conversion","socioe",1
+"177","degradation indicator","socioecological",1
+"178","avoided forest conversion","socioecological",1
+"179","degradation indicator","communi",1
+"180","avoided forest conversion","communi",1
+"181","natural forest management","communi",1
+"182","degradation indicator","community",1
+"183","avoided forest conversion","community",1
+"184","natural forest management","community",1
+"185","degradation indicator","forest",2
+"186","general land use management","forest",2
+"187","degradation indicator","land",2
+"188","general land use management","land",2
+"189","degradation indicator","deforesta",1
+"190","general land use management ","deforesta",1
+"191","degradation indicator","deforestation",1
+"192","general land use management ","deforestation",1
+"193","ecosystem services","economic",3
+"194","ecosystem services","critical",2
+"195","ecosystem services","cultural",2
+"196","ecosystem services","options",2
+"197","ecosystem services","scenario",2
+"198","ecosystem services","testing",2
+"199","ecosystem services","tropical",2
+"200","ecosystem services","climat",1
+"201","ecosystem services","climate",1
+"202","ecosystem services","econom",1
+"203","ecosystem services","potent",1
+"204","ecosystem services","potentials",1
+"205","ecosystem services","reforest",1
+"206","ecosystem services","reforestation",1
+"207","ecosystem services","trop",1
+"208","ecosystem services","tropic",1
+"209","ecosystem services ","ecohydro",1
+"210","ecosystem services ","ecohydrological",1
+"211","ecosystem services ","fores",1
+"212","ecosystem services ","forests",1
+"213","ecosystem services","carbon",2
+"214","avoided forest conversion","carbon",2
+"215","ecosystem services","global",2
+"216","avoided forest conversion","global",2
+"217","ecosystem services","potential",2
+"218","avoided forest conversion","potential",2
+"219","ecosystem services","assessin",1
+"220","avoided forest conversion","assessin",1
+"221","ecosystem services","assessing",1
+"222","avoided forest conversion","assessing",1
+"223","ecosystem services","conse",1
+"224","avoided forest conversion","conse",1
+"225","ecosystem services","consequences",1
+"226","avoided forest conversion","consequences",1
+"227","ecosystem services","valuatio",1
+"228","avoided forest conversion","valuatio",1
+"229","ecosystem services","valuation",1
+"230","avoided forest conversion","valuation",1
+"231","ecosystem services","convert",1
+"232","degradation indicator","convert",1
+"233","ecosystem services","converting",1
+"234","degradation indicator","converting",1
+"235","ecosystem services","infl",1
+"236","general land use management","infl",1
+"237","ecosystem services","influence",1
+"238","general land use management","influence",1
+"239","ecosystem services","quantitati",1
+"240","general land use management","quantitati",1
+"241","ecosystem services","quantitative",1
+"242","general land use management","quantitative",1
+"243","ecosystem services","forest",2
+"244","improved agriculture","forest",2
+"245","ecosystem services","contribut",1
+"246","natural forest management","contribut",1
+"247","ecosystem services","contribution",1
+"248","natural forest management","contribution",1
+"249","ecosystem services","landscape",2
+"250","natural succession","landscape",2
+"251","ecosystem services","carbon",2
+"252","state of ecosystem","carbon",2
+"253","ecosystem services","forest",2
+"254","state of ecosystem","forest",2
+"255","fire management","carbon",2
+"256","fire management","fire",2
+"257","fire management","grassland",2
+"258","fire management","ecologica",1
+"259","fire management","ecological",1
+"260","fire management","effective",1
+"261","fire management","effectiveness",1
+"262","fire management","lands",1
+"263","fire management","landscape",1
+"264","fire management","slas",1
+"265","fire management","slash",1
+"266","fire management","critical",2
+"267","avoided forest conversion","critical",2
+"268","fire management","fire",2
+"269","degradation indicator","fire",2
+"270","fire management","comparat",1
+"271","degradation indicator","comparat",1
+"272","fire management","comparative",1
+"273","degradation indicator","comparative",1
+"274","fire management","rela",1
+"275","general land use management","rela",1
+"276","fire management","relative",1
+"277","general land use management","relative",1
+"278","fire management","alternat",1
+"279","state of ecosystem","alternat",1
+"280","fire management","alternative",1
+"281","state of ecosystem","alternative",1
+"282","fire management","integrat",1
+"283","state of ecosystem","integrat",1
+"284","fire management","integrating",1
+"285","state of ecosystem","integrating",1
+"286","general land use management","carbon",2
+"287","general land use management","chaco",2
+"288","general land use management","dung",2
+"289","general land use management","ecological",2
+"290","general land use management","home",2
+"291","general land use management","land",2
+"292","general land use management","managing",2
+"293","general land use management","peat",2
+"294","general land use management","spatially",2
+"295","general land use management","stand",2
+"296","grazing","impact",4
+"297","grazing","carbon",2
+"298","grazing","dung",2
+"299","grazing","floristic",2
+"300","grazing","sustainable",2
+"301","grazing","variation",2
+"302","grazing","durati",1
+"303","grazing","duration",1
+"304","grazing","silvopasto",1
+"305","grazing","silvopastoral",1
+"306","grazing","structura",1
+"307","grazing","structural",1
+"308","grazing","land",2
+"309","avoided forest conversion","land",2
+"310","grazing","cattle",2
+"311","improved agriculture","cattle",2
+"312","grazing","magnitude",2
+"313","improved agriculture","magnitude",2
+"314","grazing","plant",2
+"315","improved agriculture","plant",2
+"316","grazing","effe",1
+"317","improved agriculture","effe",1
+"318","grazing","effects",1
+"319","improved agriculture","effects",1
+"320","grazing","term",2
+"321","natural forest management","term",2
+"322","grazing","responses",2
+"323","reforestation","responses",2
+"324","grazing","strong",2
+"325","reforestation","strong",2
+"326","grazing","positiv",1
+"327","state of ecosystem","positiv",1
+"328","grazing","positive",1
+"329","state of ecosystem","positive",1
+"330","improved agriculture","carbon",2
+"331","improved agriculture","confronting",2
+"332","improved agriculture","impact",2
+"333","improved agriculture","importance",2
+"334","improved agriculture","lime",2
+"335","improved agriculture","payments",2
+"336","improved agriculture","residue",2
+"337","improved agriculture","silvicultural",2
+"338","improved agriculture","conservatio",1
+"339","improved agriculture","conservation",1
+"340","improved agriculture","ecolog",1
+"341","improved agriculture","ecological",1
+"342","improved agriculture","effec",1
+"343","improved agriculture","effects",1
+"344","improved agriculture","import",1
+"345","improved agriculture","importanc",1
+"346","improved agriculture","measur",1
+"347","improved agriculture","measuring",1
+"348","improved agriculture","n",1
+"349","improved agriculture","predi",1
+"350","improved agriculture","predictive",1
+"351","improved agriculture","revi",1
+"352","improved agriculture","review",1
+"353","improved agriculture","strat",1
+"354","improved agriculture","stratification",1
+"355","improved agriculture ","identifyi",1
+"356","improved agriculture ","identifying",1
+"357","livelihood","resettlem",1
+"358","livelihood","resettlement",1
+"359","livelihood","understandi",1
+"360","livelihood","understanding",1
+"361","livelihood ","sustainable",2
+"362","livelihood","mixed",4
+"363","avoided forest conversion","mixed",4
+"364","livelihood","integrating",2
+"365","avoided forest conversion","integrating",2
+"366","livelihood","payments",2
+"367","avoided forest conversion","payments",2
+"368","livelihood","balanc",1
+"369","avoided forest conversion","balanc",1
+"370","livelihood","balancing",1
+"371","avoided forest conversion","balancing",1
+"372","livelihood","impact",1
+"373","avoided forest conversion","impact",1
+"374","livelihood","impacts",1
+"375","avoided forest conversion","impacts",1
+"376","livelihood","jurisdicti",1
+"377","avoided forest conversion","jurisdicti",1
+"378","livelihood","jurisdictional",1
+"379","avoided forest conversion","jurisdictional",1
+"380","livelihood","particip",1
+"381","degradation indicator","particip",1
+"382","livelihood","participatory",1
+"383","degradation indicator","participatory",1
+"384","livelihood","reducin",1
+"385","degradation indicator","reducin",1
+"386","livelihood","reducing",1
+"387","degradation indicator","reducing",1
+"388","livelihood","assess",1
+"389","degradation indicator","assess",1
+"390","avoided forest conversion","assess",1
+"391","livelihood","assessing",1
+"392","degradation indicator","assessing",1
+"393","avoided forest conversion","assessing",1
+"394","livelihood","conservatio",1
+"395","degradation indicator","conservatio",1
+"396","natural forest management","conservatio",1
+"397","livelihood","conservation",1
+"398","degradation indicator","conservation",1
+"399","natural forest management","conservation",1
+"400","livelihood","exploring",2
+"401","ecosystem services","exploring",2
+"402","livelihood","wealth",2
+"403","ecosystem services","wealth",2
+"404","livelihood","migration",2
+"405","improved agriculture","migration",2
+"406","livelihood","bacu",1
+"407","natural forest management","bacu",1
+"408","livelihood","bacurú",1
+"409","natural forest management","bacurú",1
+"410","livelihood","hous",1
+"411","natural forest management","hous",1
+"412","livelihood","household",1
+"413","natural forest management","household",1
+"414","livelihood","pat",1
+"415","natural forest management","pat",1
+"416","livelihood","pathways",1
+"417","natural forest management","pathways",1
+"418","livelihood","enhancing",2
+"419","reforestation","enhancing",2
+"420","livelihood","reforestati",1
+"421","reforestation","reforestati",1
+"422","livelihood","reforestation",1
+"423","reforestation","reforestation",1
+"424","livelihood","empowering",2
+"425","state of ecosystem","empowering",2
+"426","livelihood","trad",1
+"427","threat to resilience","trad",1
+"428","livelihood","trade",1
+"429","threat to resilience","trade",1
+"430","mangrove restoration","mangrove",6
+"431","mangrove restoration","assess",2
+"432","mangrove restoration","comparison",2
+"433","mangrove restoration","ty",1
+"434","mangrove restoration","carbon",2
+"435","avoided forest conversion","carbon",2
+"436","natural forest management","effects",8
+"437","natural forest management","ground",4
+"438","natural forest management","land",4
+"439","natural forest management","mapping",4
+"440","natural forest management","estimating",3
+"441","natural forest management","impact",3
+"442","natural forest management","impacts",3
+"443","natural forest management","potential",3
+"444","natural forest management","30",2
+"445","natural forest management","analysis",2
+"446","natural forest management","bee",2
+"447","natural forest management","canopy",2
+"448","natural forest management","carbon",2
+"449","natural forest management","dynamics",2
+"450","natural forest management","ecological",2
+"451","natural forest management","forest",2
+"452","natural forest management","fsc",2
+"453","natural forest management","limited",2
+"454","natural forest management","litter",2
+"455","natural forest management","logging",2
+"456","natural forest management","nitrogen",2
+"457","natural forest management","payment",2
+"458","natural forest management","reconc",2
+"459","natural forest management","reconciling",2
+"460","natural forest management","termite",2
+"461","natural forest management","thinning",2
+"462","natural forest management","timber",2
+"463","natural forest management ","certif",1
+"464","natural forest management ","certified",1
+"465","natural forest management ","fores",1
+"466","natural forest management ","forests",1
+"467","natural forest management ","simu",1
+"468","natural forest management ","simulating",1
+"469","natural succession","litter",5
+"470","natural succession","secondary",5
+"471","natural succession","seed",4
+"472","natural succession","assessing",3
+"473","natural succession","recovery",3
+"474","natural succession","bat",2
+"475","natural succession","carbon",2
+"476","natural succession","diversity",2
+"477","natural succession","drivers",2
+"478","natural succession","edge",2
+"479","natural succession","endemic",2
+"480","natural succession","expediting",2
+"481","natural succession","fine",2
+"482","natural succession","fire",2
+"483","natural succession","functional",2
+"484","natural succession","jungle",2
+"485","natural succession","land",2
+"486","natural succession","leaf",2
+"487","natural succession","linking",2
+"488","natural succession","microsite",2
+"489","natural succession","natural",2
+"490","natural succession","overstory",2
+"491","natural succession","patterns",2
+"492","natural succession","second",2
+"493","natural succession","seizing",2
+"494","natural succession","select",2
+"495","natural succession","successional",2
+"496","natural succession","sucessional",2
+"497","natural succession","temporal",2
+"498","natural succession","term",2
+"499","natural succession","tree",2
+"500","natural succession","understanding",2
+"501","natural succession","woody",2
+"502","natural succession ","prim",1
+"503","natural succession ","primate",1
+"504","natural succession","effects",2
+"505","degradation indicator","effects",2
+"506","natural succession","logg",1
+"507","degradation indicator","logg",1
+"508","natural succession","logging",1
+"509","degradation indicator","logging",1
+"510","natural succession","respro",1
+"511","degradation indicator","respro",1
+"512","natural succession","resprouting",1
+"513","degradation indicator","resprouting",1
+"514","natural succession","underproduc",1
+"515","general land use management","underproduc",1
+"516","natural succession","underproductive",1
+"517","general land use management","underproductive",1
+"518","natural succession","life",2
+"519","natural forest management","life",2
+"520","natural succession","fact",1
+"521","natural forest management","fact",1
+"522","general land use management","fact",1
+"523","natural succession","factors",1
+"524","natural forest management","factors",1
+"525","general land use management","factors",1
+"526","natural succession","natural",2
+"527","nutrient management","natural",2
+"528","degradation indicator","natural",2
+"529","natural succession","forest",2
+"530","state of ecosystem","forest",2
+"531","natural succession","soil",2
+"532","state of ecosystem","soil",2
+"533","natural succession","biodivers",1
+"534","state of ecosystem","biodivers",1
+"535","natural succession","biodiversity",1
+"536","state of ecosystem","biodiversity",1
+"537","natural succession","contrast",1
+"538","state of ecosystem","contrast",1
+"539","natural succession","contrasting",1
+"540","state of ecosystem","contrasting",1
+"541","natural succession","contri",1
+"542","state of ecosystem","contri",1
+"543","natural succession","contribution",1
+"544","state of ecosystem","contribution",1
+"545","natural succession","objec",1
+"546","state of ecosystem","objec",1
+"547","natural succession","object",1
+"548","state of ecosystem","object",1
+"549","nutrient management","biochar",7
+"550","nutrient management","enhanced",3
+"551","nutrient management","15",2
+"552","nutrient management","cost",2
+"553","nutrient management","forage",2
+"554","nutrient management","impacts",2
+"555","nutrient management","nitrogen",2
+"556","nutrient management","nutrient",2
+"557","nutrient management","tailor",2
+"558","nutrient management","variable",2
+"559","nutrient management","arbuscular",2
+"560","natural forest management","arbuscular",2
+"561","plantation","green",2
+"562","plantation","impact",2
+"563","plantation","land",2
+"564","plantation","con",1
+"565","plantation","conservation",1
+"566","plantation","mammal",1
+"567","plantation","mammals",1
+"568","plantation","taxonomic",2
+"569","agroforestry","taxonomic",2
+"570","plantation","silvopas",1
+"571","agroforestry","silvopas",1
+"572","plantation","silvopasture",1
+"573","agroforestry","silvopasture",1
+"574","plantation","contri",1
+"575","agroforestry ","contri",1
+"576","plantation","contributions",1
+"577","agroforestry ","contributions",1
+"578","plantation","acai",2
+"579","ecosystem services","acai",2
+"580","plantation","e",2
+"581","natural forest management","e",2
+"582","plantation","tree",2
+"583","natural forest management","tree",2
+"584","plantation","growth",2
+"585","reforestation","growth",2
+"586","plantation","management",2
+"587","reforestation","management",2
+"588","ecosystem services","management",2
+"589","plantation","stand",2
+"590","state of ecosystem","stand",2
+"591","plantation","alteration",1
+"592","state of ecosystem","alteration",1
+"593","plantation","alterations",1
+"594","state of ecosystem","alterations",1
+"595","plantation","opportunit",1
+"596","state of ecosystem","opportunit",1
+"597","plantation","opportunities",1
+"598","state of ecosystem","opportunities",1
+"599","reforestation","comparing",5
+"600","reforestation","recovery",5
+"601","reforestation","active",4
+"602","reforestation","ecological",4
+"603","reforestation","evaluation",4
+"604","reforestation","influence",4
+"605","reforestation","land",4
+"606","reforestation","natural",4
+"607","reforestation","tree",4
+"608","reforestation","establishment",3
+"609","reforestation","evaluating",3
+"610","reforestation","n",3
+"611","reforestation","plant",3
+"612","reforestation","restoration",3
+"613","reforestation ","guan",1
+"614","reforestation ","guandu",1
+"615","reforestation ","seques",1
+"616","reforestation ","sequestering",1
+"617","reforestation","seed",2
+"618","avoided forest conversion","seed",2
+"619","reforestation","impacts",2
+"620","degradation indicator","impacts",2
+"621","reforestation","seed",2
+"622","ecosystem services","seed",2
+"623","reforestation","economi",1
+"624","ecosystem services","economi",1
+"625","reforestation","economic",1
+"626","ecosystem services","economic",1
+"627","reforestation","expect",1
+"628","ecosystem services","expect",1
+"629","reforestation","expected",1
+"630","ecosystem services","expected",1
+"631","reforestation","carbon",2
+"632","improved agriculture","carbon",2
+"633","reforestation","affores",1
+"634","improved agriculture","affores",1
+"635","reforestation","afforestation",1
+"636","improved agriculture","afforestation",1
+"637","reforestation","restoration",2
+"638","natural forest management","restoration",2
+"639","reforestation","abundance",2
+"640","natural succession","abundance",2
+"641","reforestation","art",2
+"642","state of ecosystem","art",2
+"643","reforestation","identify",1
+"644","state of ecosystem","identify",1
+"645","reforestation","identifying",1
+"646","state of ecosystem","identifying",1
+"647","reforestation","antioxidant",2
+"648","threat to resilience","antioxidant",2
+"649","reforestation","trees",2
+"650","threat to resilience","trees",2
+"651","reforestation","afforest",1
+"652","threat to resilience","afforest",1
+"653","reforestation","afforestation",1
+"654","threat to resilience","afforestation",1
+"655","reforestation","interspec",1
+"656","threat to resilience","interspec",1
+"657","reforestation","interspecific",1
+"658","threat to resilience","interspecific",1
+"659","state of ecosystem","carbon",10
+"660","state of ecosystem","tree",8
+"661","state of ecosystem","effects",7
+"662","state of ecosystem","soil",6
+"663","state of ecosystem","aboveground",5
+"664","state of ecosystem","assessing",5
+"665","state of ecosystem","forest",5
+"666","state of ecosystem","framework",4
+"667","state of ecosystem","importance",4
+"668","state of ecosystem","monitoring",4
+"669","state of ecosystem","remote",4
+"670","state of ecosystem","role",4
+"671","state of ecosystem","spatial",4
+"672","state of ecosystem","vertical",4
+"673","state of ecosystem ","assessing",2
+"674","state of ecosystem ","biodiversity",2
+"675","state of ecosystem ","global",2
+"676","state of ecosystem ","fores",1
+"677","state of ecosystem ","forest",1
+"678","state of ecosystem","diversity",2
+"679","avoided forest conversion","diversity",2
+"680","state of ecosystem","carbon",2
+"681","degradation indicator","carbon",2
+"682","state of ecosystem","dung",2
+"683","degradation indicator","dung",2
+"684","state of ecosystem","effects",2
+"685","degradation indicator","effects",2
+"686","state of ecosystem","forest",2
+"687","degradation indicator","forest",2
+"688","state of ecosystem","land",2
+"689","degradation indicator","land",2
+"690","state of ecosystem","tree",2
+"691","degradation indicator","tree",2
+"692","state of ecosystem","tropical",2
+"693","degradation indicator","tropical",2
+"694","state of ecosystem","woody",2
+"695","degradation indicator","woody",2
+"696","state of ecosystem","asse",1
+"697","degradation indicator","asse",1
+"698","state of ecosystem","assess",1
+"699","degradation indicator","assess",1
+"700","state of ecosystem","assessing",1
+"701","degradation indicator","assessing",1
+"702","state of ecosystem","assessment",1
+"703","degradation indicator","assessment",1
+"704","state of ecosystem","biodiver",1
+"705","degradation indicator","biodiver",1
+"706","state of ecosystem","biodiversity",1
+"707","degradation indicator","biodiversity",1
+"708","state of ecosystem","drou",1
+"709","degradation indicator","drou",1
+"710","state of ecosystem","drought",1
+"711","degradation indicator","drought",1
+"712","state of ecosystem","gras",1
+"713","degradation indicator","gras",1
+"714","state of ecosystem","grasslands",1
+"715","degradation indicator","grasslands",1
+"716","state of ecosystem","potential",2
+"717","general land use management","potential",2
+"718","state of ecosystem","soil",2
+"719","general land use management","soil",2
+"720","state of ecosystem","anal",1
+"721","general land use management","anal",1
+"722","state of ecosystem","analysis",1
+"723","general land use management","analysis",1
+"724","state of ecosystem","contr",1
+"725","general land use management","contr",1
+"726","state of ecosystem","contribution",1
+"727","general land use management","contribution",1
+"728","state of ecosystem","observat",1
+"729","general land use management","observat",1
+"730","state of ecosystem","observational",1
+"731","general land use management","observational",1
+"732","state of ecosystem","tropic",1
+"733","general land use management","tropic",1
+"734","state of ecosystem","tropical",1
+"735","general land use management","tropical",1
+"736","state of ecosystem","y",1
+"737","general land use management","y",1
+"738","state of ecosystem","rice",2
+"739","improved agriculture","rice",2
+"740","state of ecosystem","spatial",2
+"741","mangrove restoration","spatial",2
+"742","state of ecosystem","compliance",2
+"743","natural forest management","compliance",2
+"744","state of ecosystem","cross",2
+"745","natural forest management","cross",2
+"746","state of ecosystem","economical",2
+"747","natural forest management","economical",2
+"748","state of ecosystem","forest",2
+"749","natural forest management","forest",2
+"750","state of ecosystem","developm",1
+"751","natural forest management","developm",1
+"752","state of ecosystem","development",1
+"753","natural forest management","development",1
+"754","state of ecosystem","n",1
+"755","natural forest management","n",1
+"756","state of ecosystem","effect",2
+"757","threat to resilience","effect",2
+"758","state of ecosystem","functional",2
+"759","threat to resilience","functional",2
+"760","state of ecosystem","global",2
+"761","threat to resilience","global",2
+"762","state of ecosystem","comb",1
+"763","threat to resilience","comb",1
+"764","state of ecosystem","combining",1
+"765","threat to resilience","combining",1
+"766","state of ecosystem","contr",1
+"767","threat to resilience","contr",1
+"768","state of ecosystem","contrasting",1
+"769","threat to resilience","contrasting",1
+"770","state of ecosystem","dyna",1
+"771","threat to resilience","dyna",1
+"772","state of ecosystem","dynamics",1
+"773","threat to resilience","dynamics",1
+"774","state of ecosystem","ephemeral",1
+"775","threat to resilience","ephemeral",1
+"776","state of ecosystem","ephemerality",1
+"777","threat to resilience","ephemerality",1
+"778","state of ecosystem","dive",1
+"779","threat to resilience ","dive",1
+"780","state of ecosystem","diverging",1
+"781","threat to resilience ","diverging",1
+"782","state of ecosystem","extent",2
+"783","threat to resilience","extent",2
+"784","avoided forest conversion","extent",2
+"785","state of ecosystem","impact",2
+"786","threat to resilience","impact",2
+"787","degradation indicator","impact",2
+"788","state of ecosystem","species",2
+"789","threat to resilience","species",2
+"790","degradation indicator","species",2
+"791","state of ecosystem","multiscal",1
+"792","threat to resilience","multiscal",1
+"793","degradation indicator","multiscal",1
+"794","state of ecosystem","multiscale",1
+"795","threat to resilience","multiscale",1
+"796","degradation indicator","multiscale",1
+"797","threat to resilience","feedback",2
+"798","threat to resilience","social",2
+"799","threat to resilience","biogeop",1
+"800","threat to resilience","biogeophysical",1
+"801","threat to resilience","me",1
+"802","threat to resilience","mega",1
+"803","threat to resilience","multicri",1
+"804","threat to resilience","multicriteria",1
+"805","threat to resilience","resp",1
+"806","threat to resilience","respo",1
+"807","threat to resilience","response",1
+"808","threat to resilience","responses",1
+"809","threat to resilience","susceptibi",1
+"810","threat to resilience","susceptibility",1
+"811","threat to resilience","syne",1
+"812","threat to resilience","synergy",1
+"813","threat to resilience","indig",1
+"814","avoided forest conversion","indig",1
+"815","threat to resilience","indigenous",1
+"816","avoided forest conversion","indigenous",1
+"817",NA,"forest",4
+"818",NA,"tropic",4
+"819",NA,"tropical",4
+"820",NA,"cooler",2
+"821",NA,"impacts",2
+"822",NA,"legally",2
+"823",NA,"soil",2
+"824",NA,"aboveg",1
+"825",NA,"aboveground",1
+"826",NA,"affores",1
+"827",NA,"afforestation",1
+"828",NA,"couple",1
+"829",NA,"coupled",1
+"830",NA,"evide",1
+"831",NA,"evidence",1
+"832",NA,"inte",1
+"833",NA,"integrated",1
+"834",NA,"n",1
+"835",NA,"pre",1
+"836",NA,"predicting",1

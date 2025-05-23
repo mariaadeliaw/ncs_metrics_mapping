@@ -1,0 +1,477 @@
+term,strength.x,rank.x,strength.y,rank.y,source,strength,rank
+termite diversity,20,2,19,4,Both,NA,NA
+arbuscular mycorrhizal,23,5,121,148,Both,NA,NA
+central india,32,12,74,73,Both,NA,NA
+forest transition,33,14,256,259,Both,NA,NA
+tropical agricultural,37,18,99,120,Both,NA,NA
+tropical andes,41,24,97,115,Both,NA,NA
+swamp forest,42,26,169,202,Both,NA,NA
+amazon forest,43,27,285,271,Both,NA,NA
+rubber plantations,47,36,174,206,Both,NA,NA
+peruvian amazon,49,38,63,54,Both,NA,NA
+disturbed tropical,50,42,74,73,Both,NA,NA
+central sulawesi,54,46,55,44,Both,NA,NA
+amazonian forests,59,50,95,109,Both,NA,NA
+atlantic forest restoration,60,51,122,149,Both,NA,NA
+passive restoration,60,51,212,235,Both,NA,NA
+tropical secondary,61,54,380,304,Both,NA,NA
+atlantic forests,63,55,84,96,Both,NA,NA
+western ghats,67,59,174,206,Both,NA,NA
+southern china,68,60,65,57,Both,NA,NA
+forest conversion,71,66,393,309,Both,NA,NA
+biosphere reserve,75,69,80,86,Both,NA,NA
+southern mexico,79,72,75,76,Both,NA,NA
+humid tropical,84,76,324,284,Both,NA,NA
+southeastern brazil,85,77,194,222,Both,NA,NA
+stand structure,91,81,115,138,Both,NA,NA
+litter decomposition,93,82,197,225,Both,NA,NA
+secondary tropical,94,84,376,303,Both,NA,NA
+shifting cultivation,99,87,346,290,Both,NA,NA
+degraded tropical,100,88,332,286,Both,NA,NA
+lowland forest,101,89,216,242,Both,NA,NA
+above-ground biomass,104,95,460,326,Both,NA,NA
+tropical forest conservation,104,95,338,287,Both,NA,NA
+non-timber forest products,105,97,253,256,Both,NA,NA
+subtropical forests,106,98,291,274,Both,NA,NA
+lowland tropical,107,99,205,230,Both,NA,NA
+tropical forest regeneration,110,100,76,77,Both,NA,NA
+non-timber forest,125,102,262,263,Both,NA,NA
+timber species,132,103,183,211,Both,NA,NA
+tropical rainforests,134,104,228,248,Both,NA,NA
+carbon sequestration,137,105,3807,397,Both,NA,NA
+forest fragmentation,140,107,190,218,Both,NA,NA
+secondary succession,142,108,297,277,Both,NA,NA
+enrichment planting,143,109,109,132,Both,NA,NA
+timber production,143,109,225,246,Both,NA,NA
+change mitigation,148,113,1657,388,Both,NA,NA
+climate change mitigation,148,113,1633,386,Both,NA,NA
+cloud forest,154,116,138,169,Both,NA,NA
+brazilian amazon,162,117,372,302,Both,NA,NA
+plant community,163,118,115,138,Both,NA,NA
+deciduous forest,166,119,262,263,Both,NA,NA
+subtropical forest,166,119,435,315,Both,NA,NA
+forest products,169,121,604,347,Both,NA,NA
+floristic composition,170,122,129,158,Both,NA,NA
+tropical ecosystems,170,122,627,350,Both,NA,NA
+landscape restoration,175,124,504,336,Both,NA,NA
+functional traits,176,125,347,291,Both,NA,NA
+natural forest regeneration,185,126,186,215,Both,NA,NA
+cover change,188,127,652,351,Both,NA,NA
+ecosystem services,190,128,5144,399,Both,NA,NA
+woody species,190,128,266,266,Both,NA,NA
+carbon storage,193,130,2215,394,Both,NA,NA
+forest disturbance,198,131,212,235,Both,NA,NA
+tropical montane,198,131,287,273,Both,NA,NA
+land-use change,216,134,809,360,Both,NA,NA
+plant diversity,226,136,194,222,Both,NA,NA
+montane forest,229,137,354,296,Both,NA,NA
+biodiversity hotspot,238,138,363,301,Both,NA,NA
+ecosystem functioning,244,139,394,310,Both,NA,NA
+forest succession,246,140,357,298,Both,NA,NA
+native forest,247,141,538,339,Both,NA,NA
+protected areas,253,142,568,343,Both,NA,NA
+forest landscape,255,143,806,359,Both,NA,NA
+brazilian atlantic forest,262,144,472,330,Both,NA,NA
+functional diversity,262,144,490,334,Both,NA,NA
+aboveground biomass,266,146,1339,377,Both,NA,NA
+forest degradation,276,147,1512,384,Both,NA,NA
+brazilian atlantic,277,148,472,330,Both,NA,NA
+vegetation structure,279,149,214,238,Both,NA,NA
+tropical rainforest,287,151,437,316,Both,NA,NA
+remote sensing,289,152,898,367,Both,NA,NA
+carbon stocks,301,153,2839,395,Both,NA,NA
+anthropogenic disturbance,306,154,299,278,Both,NA,NA
+community composition,309,155,442,318,Both,NA,NA
+ecological restoration,316,156,683,354,Both,NA,NA
+selective logging,323,157,439,317,Both,NA,NA
+agroforestry systems,324,158,1066,372,Both,NA,NA
+carbon stock,346,160,3640,396,Both,NA,NA
+forest recovery,357,161,506,337,Both,NA,NA
+agroforestry system,362,162,1216,375,Both,NA,NA
+forest ecosystems,367,163,1349,379,Both,NA,NA
+tropical forest restoration,372,164,501,335,Both,NA,NA
+plant species,420,165,550,341,Both,NA,NA
+sustainable forest management,423,166,1053,371,Both,NA,NA
+tropical region,438,167,2024,393,Both,NA,NA
+sustainable forest,478,168,1124,373,Both,NA,NA
+forest conservation,495,169,1444,383,Both,NA,NA
+forest structure,495,169,590,346,Both,NA,NA
+atlantic forest,533,172,959,370,Both,NA,NA
+biodiversity conservation,545,173,1409,381,Both,NA,NA
+forest ecosystem,545,173,1841,390,Both,NA,NA
+forest cover,596,175,1367,380,Both,NA,NA
+natural regeneration,614,176,822,361,Both,NA,NA
+climate change,661,177,4459,398,Both,NA,NA
+secondary forests,669,178,1438,382,Both,NA,NA
+natural forest,693,179,1346,378,Both,NA,NA
+species diversity,714,180,668,352,Both,NA,NA
+forest management,817,181,1970,392,Both,NA,NA
+forest regeneration,819,182,900,368,Both,NA,NA
+species composition,874,183,723,358,Both,NA,NA
+forest restoration,917,184,1650,387,Both,NA,NA
+secondary forest,997,185,1857,391,Both,NA,NA
+species richness,1374,186,1237,376,Both,NA,NA
+tropical forests,2200,187,5560,401,Both,NA,NA
+tropical forest,3462,188,8092,402,Both,NA,NA
+tropical coastal,NA,NA,NA,NA,Old Only,13,1
+brazilian caatinga,NA,NA,NA,NA,Old Only,21,3
+south africa,NA,NA,NA,NA,Old Only,22,4
+habitat associations,NA,NA,NA,NA,Old Only,23,5
+southeast asian,NA,NA,NA,NA,Old Only,23,5
+southern india,NA,NA,NA,NA,Old Only,25,8
+seedling growth,NA,NA,NA,NA,Old Only,29,9
+eastern ghats,NA,NA,NA,NA,Old Only,30,10
+mexican tropical,NA,NA,NA,NA,Old Only,30,10
+butterfly diversity,NA,NA,NA,NA,Old Only,32,12
+contrasting patterns,NA,NA,NA,NA,Old Only,33,14
+lowland tropical forests,NA,NA,NA,NA,Old Only,33,14
+northeastern brazil,NA,NA,NA,NA,Old Only,35,17
+central african,NA,NA,NA,NA,Old Only,37,18
+forest margins,NA,NA,NA,NA,Old Only,37,18
+unmanned aerial,NA,NA,NA,NA,Old Only,39,21
+unmanned aerial vehicle,NA,NA,NA,NA,Old Only,39,21
+forest chronosequence,NA,NA,NA,NA,Old Only,40,23
+vertical stratification,NA,NA,NA,NA,Old Only,41,24
+biomass stocks,NA,NA,NA,NA,Old Only,43,27
+brazilian amazonia,NA,NA,NA,NA,Old Only,43,27
+elevational gradient,NA,NA,NA,NA,Old Only,43,27
+understory birds,NA,NA,NA,NA,Old Only,43,27
+agricultural intensification,NA,NA,NA,NA,Old Only,44,32
+disturbance regimes,NA,NA,NA,NA,Old Only,45,33
+southern brazilian,NA,NA,NA,NA,Old Only,45,33
+forest restoration plantations,NA,NA,NA,NA,Old Only,46,35
+aerial vehicle,NA,NA,NA,NA,Old Only,47,36
+logging roads,NA,NA,NA,NA,Old Only,49,38
+tropical cloud,NA,NA,NA,NA,Old Only,49,38
+tropical cloud forest,NA,NA,NA,NA,Old Only,49,38
+ecological indicators,NA,NA,NA,NA,Old Only,50,42
+beetle assemblages,NA,NA,NA,NA,Old Only,51,44
+restoration plantations,NA,NA,NA,NA,Old Only,52,45
+structural complexity,NA,NA,NA,NA,Old Only,54,46
+structural diversity,NA,NA,NA,NA,Old Only,54,46
+invasive plant,NA,NA,NA,NA,Old Only,56,49
+functional composition,NA,NA,NA,NA,Old Only,60,51
+tectona grandis,NA,NA,NA,NA,Old Only,65,56
+direct seeding,NA,NA,NA,NA,Old Only,66,57
+tropical mountain,NA,NA,NA,NA,Old Only,66,57
+cocoa agroforests,NA,NA,NA,NA,Old Only,68,60
+landscape forest cover,NA,NA,NA,NA,Old Only,69,62
+dipterocarp forest,NA,NA,NA,NA,Old Only,70,63
+forest community,NA,NA,NA,NA,Old Only,70,63
+tropical forest biodiversity,NA,NA,NA,NA,Old Only,70,63
+beetle diversity,NA,NA,NA,NA,Old Only,71,66
+landscape forest,NA,NA,NA,NA,Old Only,74,68
+secondary forest succession,NA,NA,NA,NA,Old Only,75,69
+frugivorous birds,NA,NA,NA,NA,Old Only,76,71
+degraded areas,NA,NA,NA,NA,Old Only,80,73
+forest resources,NA,NA,NA,NA,Old Only,80,73
+conservation status,NA,NA,NA,NA,Old Only,83,75
+amazonian forest,NA,NA,NA,NA,Old Only,85,77
+southern brazil,NA,NA,NA,NA,Old Only,85,77
+timber extraction,NA,NA,NA,NA,Old Only,85,77
+second-growth forests,NA,NA,NA,NA,Old Only,93,82
+fragmented landscape,NA,NA,NA,NA,Old Only,94,84
+southern costa,NA,NA,NA,NA,Old Only,95,86
+disturbance gradient,NA,NA,NA,NA,Old Only,102,90
+montane cloud,NA,NA,NA,NA,Old Only,102,90
+montane cloud forest,NA,NA,NA,NA,Old Only,102,90
+tropical montane cloud,NA,NA,NA,NA,Old Only,102,90
+tropical montane cloud forest,NA,NA,NA,NA,Old Only,102,90
+genetic diversity,NA,NA,NA,NA,Old Only,124,101
+forest reserve,NA,NA,NA,NA,Old Only,138,106
+forest biodiversity,NA,NA,NA,NA,Old Only,143,109
+plant communities,NA,NA,NA,NA,Old Only,147,112
+degraded lands,NA,NA,NA,NA,Old Only,148,113
+active restoration,NA,NA,NA,NA,Old Only,215,133
+woody plant,NA,NA,NA,NA,Old Only,222,135
+forest species,NA,NA,NA,NA,Old Only,283,150
+community structure,NA,NA,NA,NA,Old Only,327,159
+ecosystem function,NA,NA,NA,NA,Old Only,496,171
+water-holding capacity,NA,NA,NA,NA,New Only,7,1
+coffee agroecosystems,NA,NA,NA,NA,New Only,18,2
+lantana camara,NA,NA,NA,NA,New Only,18,2
+conservation agriculture,NA,NA,NA,NA,New Only,20,5
+rainforest restoration,NA,NA,NA,NA,New Only,22,6
+quality indicators,NA,NA,NA,NA,New Only,23,7
+restoration priorities,NA,NA,NA,NA,New Only,23,7
+amazonian brazil,NA,NA,NA,NA,New Only,25,9
+management effects,NA,NA,NA,NA,New Only,25,9
+n2-fixing trees,NA,NA,NA,NA,New Only,26,11
+tropical lowlands,NA,NA,NA,NA,New Only,29,12
+coffee landscapes,NA,NA,NA,NA,New Only,31,13
+central highlands,NA,NA,NA,NA,New Only,32,14
+labile organic,NA,NA,NA,NA,New Only,33,15
+northern thailand,NA,NA,NA,NA,New Only,33,15
+typical subtropical,NA,NA,NA,NA,New Only,36,17
+western himalaya,NA,NA,NA,NA,New Only,37,18
+indian forests,NA,NA,NA,NA,New Only,39,19
+himachal pradesh,NA,NA,NA,NA,New Only,40,20
+tropical pasture,NA,NA,NA,NA,New Only,40,20
+forest biomass carbon,NA,NA,NA,NA,New Only,43,22
+management impacts,NA,NA,NA,NA,New Only,43,22
+provisioning ecosystem services,NA,NA,NA,NA,New Only,43,22
+climate policy,NA,NA,NA,NA,New Only,44,25
+large-scale ecological,NA,NA,NA,NA,New Only,44,25
+large-scale ecological restoration,NA,NA,NA,NA,New Only,44,25
+satellite images,NA,NA,NA,NA,New Only,45,28
+tropical wetlands,NA,NA,NA,NA,New Only,45,28
+greater mekong,NA,NA,NA,NA,New Only,46,30
+cocoa production,NA,NA,NA,NA,New Only,47,31
+lowland rainforests,NA,NA,NA,NA,New Only,47,31
+earth observation,NA,NA,NA,NA,New Only,49,33
+poverty reduction,NA,NA,NA,NA,New Only,51,34
+provisioning ecosystem,NA,NA,NA,NA,New Only,51,34
+selectively logged tropical forests,NA,NA,NA,NA,New Only,51,34
+sustainable agroforestry,NA,NA,NA,NA,New Only,51,34
+tropical evergreen,NA,NA,NA,NA,New Only,51,34
+community forest management,NA,NA,NA,NA,New Only,54,39
+estimating aboveground biomass,NA,NA,NA,NA,New Only,54,39
+international climate,NA,NA,NA,NA,New Only,54,39
+rainforest conversion,NA,NA,NA,NA,New Only,54,39
+shade coffee,NA,NA,NA,NA,New Only,54,39
+southern ecuador,NA,NA,NA,NA,New Only,55,44
+pinus massoniana,NA,NA,NA,NA,New Only,56,46
+successional tropical,NA,NA,NA,NA,New Only,56,46
+carbon neutrality,NA,NA,NA,NA,New Only,57,48
+forest biomass recovery,NA,NA,NA,NA,New Only,57,48
+central kalimantan,NA,NA,NA,NA,New Only,59,50
+litter manipulation,NA,NA,NA,NA,New Only,59,50
+estimating aboveground,NA,NA,NA,NA,New Only,61,52
+restoring tropical,NA,NA,NA,NA,New Only,62,53
+cacao agroforestry,NA,NA,NA,NA,New Only,63,54
+vegetation restoration,NA,NA,NA,NA,New Only,63,54
+moist tropical,NA,NA,NA,NA,New Only,65,57
+coffee farms,NA,NA,NA,NA,New Only,66,59
+forest canopies,NA,NA,NA,NA,New Only,66,59
+selectively logged tropical,NA,NA,NA,NA,New Only,66,59
+terrestrial carbon sinks,NA,NA,NA,NA,New Only,66,59
+airborne lidar,NA,NA,NA,NA,New Only,67,63
+brazilian cerrado,NA,NA,NA,NA,New Only,67,63
+community assembly,NA,NA,NA,NA,New Only,67,63
+biochar application,NA,NA,NA,NA,New Only,68,66
+colombian amazon,NA,NA,NA,NA,New Only,68,66
+cropping systems,NA,NA,NA,NA,New Only,69,68
+south china,NA,NA,NA,NA,New Only,70,69
+bornean tropical,NA,NA,NA,NA,New Only,71,70
+sub-saharan africa,NA,NA,NA,NA,New Only,71,70
+ecological sustainability,NA,NA,NA,NA,New Only,73,72
+southwest china,NA,NA,NA,NA,New Only,74,73
+ecuadorian amazon,NA,NA,NA,NA,New Only,76,77
+wildlife sanctuary,NA,NA,NA,NA,New Only,76,77
+economic valuation,NA,NA,NA,NA,New Only,78,80
+fungal communities,NA,NA,NA,NA,New Only,78,80
+highly degraded,NA,NA,NA,NA,New Only,78,80
+livestock production,NA,NA,NA,NA,New Only,78,80
+nature reserve,NA,NA,NA,NA,New Only,78,80
+restored tropical forest,NA,NA,NA,NA,New Only,79,85
+biological activity,NA,NA,NA,NA,New Only,80,86
+carbon stock potential,NA,NA,NA,NA,New Only,80,86
+coffee production,NA,NA,NA,NA,New Only,80,86
+stock potential,NA,NA,NA,NA,New Only,80,86
+nitrous oxide,NA,NA,NA,NA,New Only,81,91
+climate solutions,NA,NA,NA,NA,New Only,82,92
+tropical reforestation,NA,NA,NA,NA,New Only,82,92
+carbon offsets,NA,NA,NA,NA,New Only,83,94
+tropical agroforestry system,NA,NA,NA,NA,New Only,83,94
+aboveground biomass accumulation,NA,NA,NA,NA,New Only,85,97
+biodiversity recovery,NA,NA,NA,NA,New Only,85,97
+species distribution,NA,NA,NA,NA,New Only,86,99
+tropical forest degradation,NA,NA,NA,NA,New Only,86,99
+farming systems,NA,NA,NA,NA,New Only,87,101
+logged tropical forests,NA,NA,NA,NA,New Only,87,101
+restored tropical,NA,NA,NA,NA,New Only,87,101
+restoration plantings,NA,NA,NA,NA,New Only,88,104
+regenerating tropical,NA,NA,NA,NA,New Only,91,105
+secondary forest regeneration,NA,NA,NA,NA,New Only,91,105
+tropical savanna,NA,NA,NA,NA,New Only,91,105
+tropical forest management,NA,NA,NA,NA,New Only,93,108
+carbon sequestration rates,NA,NA,NA,NA,New Only,95,109
+mangrove conservation,NA,NA,NA,NA,New Only,95,109
+forest policy,NA,NA,NA,NA,New Only,96,112
+pollination services,NA,NA,NA,NA,New Only,96,112
+voluntary carbon,NA,NA,NA,NA,New Only,96,112
+hainan island,NA,NA,NA,NA,New Only,97,115
+nitrogen deposition,NA,NA,NA,NA,New Only,97,115
+nutrient limitation,NA,NA,NA,NA,New Only,97,115
+organic carbon storage,NA,NA,NA,NA,New Only,97,115
+central amazonia,NA,NA,NA,NA,New Only,99,120
+carbon stock estimation,NA,NA,NA,NA,New Only,100,122
+stock estimation,NA,NA,NA,NA,New Only,100,122
+plantation forests,NA,NA,NA,NA,New Only,101,124
+nitrogen addition,NA,NA,NA,NA,New Only,102,125
+altitudinal gradient,NA,NA,NA,NA,New Only,104,126
+malaysian borneo,NA,NA,NA,NA,New Only,106,127
+timber plantations,NA,NA,NA,NA,New Only,106,127
+aboveground carbon storage,NA,NA,NA,NA,New Only,107,129
+amazon forests,NA,NA,NA,NA,New Only,108,130
+tropical moist forest,NA,NA,NA,NA,New Only,108,130
+climate variability,NA,NA,NA,NA,New Only,109,132
+logged tropical,NA,NA,NA,NA,New Only,109,132
+nature-based solutions,NA,NA,NA,NA,New Only,110,135
+carbon recovery,NA,NA,NA,NA,New Only,113,136
+tropical trees,NA,NA,NA,NA,New Only,113,136
+tropical peatlands,NA,NA,NA,NA,New Only,115,138
+large-scale forest restoration,NA,NA,NA,NA,New Only,116,141
+management regimes,NA,NA,NA,NA,New Only,117,142
+restoring degraded,NA,NA,NA,NA,New Only,117,142
+successional pathways,NA,NA,NA,NA,New Only,117,142
+assessing carbon,NA,NA,NA,NA,New Only,118,145
+community forests,NA,NA,NA,NA,New Only,120,146
+natural tropical,NA,NA,NA,NA,New Only,120,146
+tropical lowland,NA,NA,NA,NA,New Only,122,149
+biological diversity,NA,NA,NA,NA,New Only,123,151
+poverty alleviation,NA,NA,NA,NA,New Only,123,151
+central america,NA,NA,NA,NA,New Only,125,153
+potential carbon,NA,NA,NA,NA,New Only,125,153
+nutrient dynamics,NA,NA,NA,NA,New Only,126,155
+mitigation strategy,NA,NA,NA,NA,New Only,128,156
+tropical agroforestry,NA,NA,NA,NA,New Only,128,156
+ecosystem carbon storage,NA,NA,NA,NA,New Only,130,159
+microbial community,NA,NA,NA,NA,New Only,130,159
+biomass recovery,NA,NA,NA,NA,New Only,131,161
+coffee agroforestry,NA,NA,NA,NA,New Only,132,162
+monoculture plantations,NA,NA,NA,NA,New Only,132,162
+reduced emissions,NA,NA,NA,NA,New Only,133,164
+human-modified landscapes,NA,NA,NA,NA,New Only,134,165
+intact forest,NA,NA,NA,NA,New Only,135,166
+water quality,NA,NA,NA,NA,New Only,135,166
+restoration success,NA,NA,NA,NA,New Only,137,168
+rural development,NA,NA,NA,NA,New Only,138,169
+successional trajectories,NA,NA,NA,NA,New Only,139,171
+swamp forests,NA,NA,NA,NA,New Only,139,171
+cropping system,NA,NA,NA,NA,New Only,140,173
+ecosystem carbon stocks,NA,NA,NA,NA,New Only,140,173
+tropical forest succession,NA,NA,NA,NA,New Only,140,173
+carbon management,NA,NA,NA,NA,New Only,143,176
+congo basin,NA,NA,NA,NA,New Only,143,176
+machine learning,NA,NA,NA,NA,New Only,143,176
+northeast india,NA,NA,NA,NA,New Only,143,176
+tropical moist,NA,NA,NA,NA,New Only,143,176
+changing climate,NA,NA,NA,NA,New Only,145,181
+biomass estimation,NA,NA,NA,NA,New Only,147,182
+species plantations,NA,NA,NA,NA,New Only,148,183
+humid tropical forests,NA,NA,NA,NA,New Only,149,184
+tropical peatland,NA,NA,NA,NA,New Only,150,185
+forest aboveground,NA,NA,NA,NA,New Only,151,186
+emission reductions,NA,NA,NA,NA,New Only,152,187
+united states,NA,NA,NA,NA,New Only,152,187
+production forests,NA,NA,NA,NA,New Only,153,189
+slash-and-burn agriculture,NA,NA,NA,NA,New Only,154,190
+biomass production,NA,NA,NA,NA,New Only,155,191
+carbon fluxes,NA,NA,NA,NA,New Only,155,191
+amazon basin,NA,NA,NA,NA,New Only,156,193
+agroforestry practices,NA,NA,NA,NA,New Only,158,194
+early successional,NA,NA,NA,NA,New Only,159,195
+organic carbon stocks,NA,NA,NA,NA,New Only,159,195
+reduced-impact logging,NA,NA,NA,NA,New Only,161,197
+lowland tropical forest,NA,NA,NA,NA,New Only,162,198
+large-scale forest,NA,NA,NA,NA,New Only,163,199
+degraded tropical forests,NA,NA,NA,NA,New Only,167,200
+forest cover change,NA,NA,NA,NA,New Only,167,200
+forest regrowth,NA,NA,NA,NA,New Only,172,203
+microbial communities,NA,NA,NA,NA,New Only,172,203
+sequestration rates,NA,NA,NA,NA,New Only,173,205
+democratic republic,NA,NA,NA,NA,New Only,174,206
+tropical montane forest,NA,NA,NA,NA,New Only,174,206
+secondary tropical forests,NA,NA,NA,NA,New Only,178,210
+anthropogenic disturbances,NA,NA,NA,NA,New Only,183,211
+forest dynamics,NA,NA,NA,NA,New Only,183,211
+amazon region,NA,NA,NA,NA,New Only,185,214
+agricultural practices,NA,NA,NA,NA,New Only,187,216
+tropical soils,NA,NA,NA,NA,New Only,189,217
+management systems,NA,NA,NA,NA,New Only,192,219
+carbon markets,NA,NA,NA,NA,New Only,193,220
+moist forest,NA,NA,NA,NA,New Only,193,220
+satellite imagery,NA,NA,NA,NA,New Only,194,222
+neotropical forest,NA,NA,NA,NA,New Only,198,226
+forest patches,NA,NA,NA,NA,New Only,199,227
+humid tropics,NA,NA,NA,NA,New Only,200,228
+silvopastoral systems,NA,NA,NA,NA,New Only,203,229
+organic carbon stock,NA,NA,NA,NA,New Only,205,230
+ecosystem service provision,NA,NA,NA,NA,New Only,207,232
+selectively logged,NA,NA,NA,NA,New Only,210,233
+forest plantations,NA,NA,NA,NA,New Only,211,234
+service provision,NA,NA,NA,NA,New Only,213,237
+development goals,NA,NA,NA,NA,New Only,214,238
+sustainable development goals,NA,NA,NA,NA,New Only,214,238
+production systems,NA,NA,NA,NA,New Only,215,241
+eastern amazon,NA,NA,NA,NA,New Only,216,242
+opportunity costs,NA,NA,NA,NA,New Only,216,242
+successional stages,NA,NA,NA,NA,New Only,216,242
+belowground carbon,NA,NA,NA,NA,New Only,226,247
+central africa,NA,NA,NA,NA,New Only,230,249
+forest ecosystem services,NA,NA,NA,NA,New Only,232,250
+land-use systems,NA,NA,NA,NA,New Only,234,251
+carbon balance,NA,NA,NA,NA,New Only,237,252
+avoided deforestation,NA,NA,NA,NA,New Only,240,253
+belowground biomass,NA,NA,NA,NA,New Only,245,254
+carbon density,NA,NA,NA,NA,New Only,247,255
+mangrove forests,NA,NA,NA,NA,New Only,253,256
+primary productivity,NA,NA,NA,NA,New Only,254,258
+forest inventory,NA,NA,NA,NA,New Only,257,260
+community forest,NA,NA,NA,NA,New Only,261,261
+mitigation potential,NA,NA,NA,NA,New Only,261,261
+montane forests,NA,NA,NA,NA,New Only,262,263
+restoration projects,NA,NA,NA,NA,New Only,268,267
+nutrient availability,NA,NA,NA,NA,New Only,273,268
+mangrove forest,NA,NA,NA,NA,New Only,276,269
+chemical properties,NA,NA,NA,NA,New Only,281,270
+forest landscape restoration,NA,NA,NA,NA,New Only,285,271
+ecosystem restoration,NA,NA,NA,NA,New Only,292,275
+tropical secondary forests,NA,NA,NA,NA,New Only,292,275
+tropical forest carbon,NA,NA,NA,NA,New Only,301,279
+terrestrial ecosystems,NA,NA,NA,NA,New Only,307,280
+above-ground carbon,NA,NA,NA,NA,New Only,309,281
+forest protection,NA,NA,NA,NA,New Only,310,282
+regenerating forests,NA,NA,NA,NA,New Only,321,283
+carbon cycling,NA,NA,NA,NA,New Only,325,285
+terrestrial carbon,NA,NA,NA,NA,New Only,339,288
+tropical forest ecosystems,NA,NA,NA,NA,New Only,340,289
+environmental services,NA,NA,NA,NA,New Only,347,291
+ecosystem services provided,NA,NA,NA,NA,New Only,348,293
+human disturbance,NA,NA,NA,NA,New Only,348,293
+tropical deforestation,NA,NA,NA,NA,New Only,348,293
+agricultural landscapes,NA,NA,NA,NA,New Only,356,297
+tropical landscapes,NA,NA,NA,NA,New Only,360,299
+forest fragments,NA,NA,NA,NA,New Only,362,300
+forest resource,NA,NA,NA,NA,New Only,380,304
+allometric equations,NA,NA,NA,NA,New Only,389,306
+management strategies,NA,NA,NA,NA,New Only,389,306
+microbial biomass,NA,NA,NA,NA,New Only,389,306
+forest biomass,NA,NA,NA,NA,New Only,397,311
+restoration strategies,NA,NA,NA,NA,New Only,404,312
+biomass accumulation,NA,NA,NA,NA,New Only,422,313
+ecosystem functions,NA,NA,NA,NA,New Only,427,314
+agricultural landscape,NA,NA,NA,NA,New Only,445,319
+carbon content,NA,NA,NA,NA,New Only,448,320
+mitigate climate,NA,NA,NA,NA,New Only,449,321
+mitigate climate change,NA,NA,NA,NA,New Only,449,321
+carbon accumulation,NA,NA,NA,NA,New Only,450,323
+carbon sinks,NA,NA,NA,NA,New Only,457,324
+tropical forest ecosystem,NA,NA,NA,NA,New Only,459,325
+forest landscapes,NA,NA,NA,NA,New Only,463,327
+carbon pools,NA,NA,NA,NA,New Only,466,328
+ecosystem carbon,NA,NA,NA,NA,New Only,468,329
+services provided,NA,NA,NA,NA,New Only,474,332
+climate mitigation,NA,NA,NA,NA,New Only,485,333
+carbon dynamics,NA,NA,NA,NA,New Only,515,338
+sustainable development,NA,NA,NA,NA,New Only,549,340
+forest types,NA,NA,NA,NA,New Only,560,342
+aboveground carbon,NA,NA,NA,NA,New Only,568,343
+biomass carbon,NA,NA,NA,NA,New Only,588,345
+total carbon,NA,NA,NA,NA,New Only,624,348
+natural forests,NA,NA,NA,NA,New Only,626,349
+tropical ecosystem,NA,NA,NA,NA,New Only,676,353
+sustainable management,NA,NA,NA,NA,New Only,686,355
+carbon dioxide,NA,NA,NA,NA,New Only,690,356
+carbon sequestration potential,NA,NA,NA,NA,New Only,694,357
+sequestration potential,NA,NA,NA,NA,New Only,831,362
+management practices,NA,NA,NA,NA,New Only,843,363
+organic matter,NA,NA,NA,NA,New Only,862,364
+nutrient cycling,NA,NA,NA,NA,New Only,865,365
+reducing emissions,NA,NA,NA,NA,New Only,874,366
+carbon emissions,NA,NA,NA,NA,New Only,908,369
+forest carbon,NA,NA,NA,NA,New Only,1209,374
+organic carbon,NA,NA,NA,NA,New Only,1515,385
+tropical regions,NA,NA,NA,NA,New Only,1705,389
+ecosystem service,NA,NA,NA,NA,New Only,5360,400
