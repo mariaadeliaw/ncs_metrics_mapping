@@ -1,0 +1,92 @@
+﻿outcome_group,keyword
+Soil and Water Quality,soil
+Soil and Water Quality,pH
+Soil and Water Quality,CEC
+Soil and Water Quality,ECe
+Soil and Water Quality,SAR
+Soil and Water Quality,nutrient
+Soil and Water Quality,organic matter
+Soil and Water Quality,infiltration
+Soil and Water Quality,redox
+Soil and Water Quality,bulk density
+Plant Productivity and Growth,yield
+Plant Productivity and Growth,biomass production
+Plant Productivity and Growth,growth
+Plant Productivity and Growth,plant height
+Plant Productivity and Growth,dry matter
+Plant Productivity and Growth,leaf area
+Plant Productivity and Growth,crown
+Plant Productivity and Growth,survival
+Biodiversity and Species Composition,biodiversity
+Biodiversity and Species Composition,species richness
+Biodiversity and Species Composition,diversity
+Biodiversity and Species Composition,functional trait
+Biodiversity and Species Composition,community structure
+Biodiversity and Species Composition,species composition
+Biodiversity and Species Composition,taxonomic
+Biodiversity and Species Composition,shannon
+Biodiversity and Species Composition,simpson
+Biodiversity and Species Composition,rao
+Biomass and Carbon Stock,volumetric stock
+Biomass and Carbon Stock,carbon stock
+Biomass and Carbon Stock,aboveground biomass
+Biomass and Carbon Stock,AGB
+Biomass and Carbon Stock,tree volume
+Biomass and Carbon Stock,biomass partitioning
+Biomass and Carbon Stock,wood density
+Biomass and Carbon Stock,tree biomass
+GHG Emissions and Climate Metrics,carbon storage
+GHG Emissions and Climate Metrics,carbon footprint
+GHG Emissions and Climate Metrics,GHG
+GHG Emissions and Climate Metrics,CO2
+GHG Emissions and Climate Metrics,CH4
+GHG Emissions and Climate Metrics,N2O
+GHG Emissions and Climate Metrics,greenhouse gas
+GHG Emissions and Climate Metrics,emission
+GHG Emissions and Climate Metrics,carbon intensity
+GHG Emissions and Climate Metrics,NEP
+GHG Emissions and Climate Metrics,net ecosystem productivity
+GHG Emissions and Climate Metrics,methane
+Economic and Social Metrics,NPV
+Economic and Social Metrics,profit
+Economic and Social Metrics,cost-benefit
+Economic and Social Metrics,economic
+Economic and Social Metrics,income
+Economic and Social Metrics,social return
+Economic and Social Metrics,well-being
+Economic and Social Metrics,livelihood
+Landscape and Land Use Change,land use
+Landscape and Land Use Change,LULC
+Landscape and Land Use Change,fragmentation
+Landscape and Land Use Change,streamflow
+Landscape and Land Use Change,fire
+Landscape and Land Use Change,land cover
+Landscape and Land Use Change,scenario
+Landscape and Land Use Change,height
+Remote Sensing and Modeling Accuracy,accuracy
+Remote Sensing and Modeling Accuracy,kappa
+Remote Sensing and Modeling Accuracy,OA
+Remote Sensing and Modeling Accuracy,segmentation
+Remote Sensing and Modeling Accuracy,classification
+Remote Sensing and Modeling Accuracy,LiDAR
+Remote Sensing and Modeling Accuracy,model performance
+Remote Sensing and Modeling Accuracy,error matrix
+Restoration Effectiveness and Feasibility,feasibility
+Restoration Effectiveness and Feasibility,restoration success
+Restoration Effectiveness and Feasibility,planning
+Restoration Effectiveness and Feasibility,scenario modeling
+Restoration Effectiveness and Feasibility,effectiveness
+Restoration Effectiveness and Feasibility,success rate
+Restoration Effectiveness and Feasibility,opportunity cost
+Ecosystem Services,ecosystem service
+Ecosystem Services,pollination
+Ecosystem Services,habitat provision
+Ecosystem Services,erosion control
+Ecosystem Services,water purification
+Ecosystem Services,nutrient cycling
+Ecosystem Services,recreation
+Ecosystem Services,flood regulation
+Ecosystem Services,cultural service
+Ecosystem Services,provisioning
+Ecosystem Services,regulating
+Ecosystem Services,supporting

@@ -1,0 +1,68 @@
+﻿method_group,keyword
+Field Measurements,field measurement
+Field Measurements,in situ
+Field Measurements,soil sampling
+Field Measurements,plot
+Field Measurements,quadrat
+Field Measurements,destructive sampling
+Field Measurements,tape
+Field Measurements,caliper
+Field Measurements,clinometer
+Field Measurements,dendrometer
+Field Measurements,biomass harvest
+Remote Sensing and GIS,remote sensing
+Remote Sensing and GIS,GIS
+Remote Sensing and GIS,satellite imagery
+Remote Sensing and GIS,drone
+Remote Sensing and GIS,UAV
+Remote Sensing and GIS,LiDAR
+Remote Sensing and GIS,NDVI
+Remote Sensing and GIS,spectral
+Remote Sensing and GIS,classification
+Remote Sensing and GIS,pixel-based
+Remote Sensing and GIS,raster
+Remote Sensing and GIS,object-based
+Remote Sensing and GIS,MODIS
+Remote Sensing and GIS,Landsat
+Remote Sensing and GIS,Sentinel
+Modeling and Simulation,model
+Modeling and Simulation,simulation
+Modeling and Simulation,scenario
+Modeling and Simulation,forecasting
+Modeling and Simulation,optimization
+Modeling and Simulation,InVEST
+Modeling and Simulation,SWAT
+Modeling and Simulation,CENTURY
+Modeling and Simulation,LPJ
+Modeling and Simulation,LCA
+Modeling and Simulation,carbon budget
+Social Surveys and Participatory,household survey
+Social Surveys and Participatory,interview
+Social Surveys and Participatory,focus group
+Social Surveys and Participatory,participatory
+Social Surveys and Participatory,PRA
+Social Surveys and Participatory,FGD
+Social Surveys and Participatory,perception
+Social Surveys and Participatory,social assessment
+Statistical and Meta-analysis,statistical
+Statistical and Meta-analysis,regression
+Statistical and Meta-analysis,correlation
+Statistical and Meta-analysis,meta-analysis
+Statistical and Meta-analysis,t-test
+Statistical and Meta-analysis,ANOVA
+Statistical and Meta-analysis,PCA
+Statistical and Meta-analysis,multivariate
+Statistical and Meta-analysis,bootstrapping
+Experimental Design,experiment
+Experimental Design,factorial
+Experimental Design,control
+Experimental Design,treatment
+Experimental Design,randomized
+Experimental Design,block design
+Experimental Design,split-plot
+Literature and Database Review,literature review
+Literature and Database Review,systematic review
+Literature and Database Review,meta-study
+Literature and Database Review,data mining
+Literature and Database Review,bibliometric
+Literature and Database Review,scoping review
